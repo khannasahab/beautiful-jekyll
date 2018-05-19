@@ -1,7 +1,13 @@
 # --- General options --- #
 
+techgit: "https://github.com/g24khanna/Dynamic-Theme-Example"
+
+#build options
+incremental: true
+
 # url is the full website URL
 # baseurl is the website's URL without the hostname
+
 
 # If you are building a simple GitHub user page (http://username.github.io) then use these settings:
 url: "http://gaurav-khanna.in"
@@ -17,18 +23,18 @@ baseurl: ""
 title: Gaurav Khanna
 
 # Short description of your site
-description: Tech enthusiast, Android Engineer, Travel, Blogging, Reading, Pool!
+description: Tech enthusiast, Trainer, Android Engineer, Product Engineer, Traveller, Blogger, Reader, Pool!
 
 # --- Navigation bar options --- #
 
 # List of links in the navigation bar
 navbar-links:
   About Me: "aboutme"
+  Blog: "blogs"
   Resources:
     - Beautiful Jekyll: "http://deanattali.com/beautiful-jekyll/"
     - Learn markdown: "http://www.markdowntutorial.com/"
     - GitHub Pages: "https://pages.github.com/"
-  Author's home: "http://gaurav-khanna.in"
 
 # Image to show in the navigation bar - image must be a square (width = height)
 # Remove this parameter if you don't want an image in the navbar
@@ -42,13 +48,13 @@ avatar: "/img/avatar-icon.jpg"
 
 # Personalize the colors in your website. Colour values can be any valid CSS colour
 
-navbar-col: "#F5F5F5"
+navbar-col: "#F1F1F1"
 navbar-text-col: "#404040"
-navbar-children-col: "#F5F5F5"
+navbar-children-col: "#F1F1F1"
 page-col: "#FFFFFF"
 link-col: "#008AFF"
 hover-col: "#0085A1"
-footer-col: "#F5F5F5"
+footer-col: "#F1F1F1"
 footer-text-col: "#777777"
 footer-link-col: "#404040"
 
@@ -99,7 +105,7 @@ share-links-active:
 
 # How to display the link to the website in the footer
 # Remove this if you don't want a link in the footer
-url-pretty: "MyWebsite.com"  # eg. "deanattali.com/beautiful-jekyll"
+url-pretty: ""  # eg. "deanattali.com/beautiful-jekyll"
 
 # --- Web Statistics Section --- #
 
