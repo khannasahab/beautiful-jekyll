@@ -4,7 +4,7 @@ title: Mastering Android Themes - Chapter 1
 categories: ['android','blog']
 gh-repo: g24khanna/Dynamic-Theme-Example
 gh-badge: [star, fork, follow]
-category: [android, ui]
+categories: [android, ui]
 tags: [android, adroid styling, app development]
 ---
 
@@ -15,9 +15,9 @@ For the sake of this series, lets divide developers in 4 categories. Novice, Com
 
 #### Index
 * Chapter 1 (Novice and Competent): You are reading
-* Chapter 2 [(Expert - Design Language)](/2018-04-07-Mastering-Android-Themes-Chapter-2/)
-* Chapter 3 [(Themes)](/2018-04-07-Mastering-Android-Themes-Chapter3/)
-* Chapter 4 [(Dynamic Themes and Conclusion)](/2018-04-07-Mastering-Android-Themes-Chapter4/)
+* Chapter 2 [(Expert - Design Language)](/android/ui/mastering-android-themes-chapter-2/)
+* Chapter 3 [(Themes)](/android/ui/Mastering-Android-Themes-Chapter3/)
+* Chapter 4 [(Dynamic Themes and Conclusion)](/android/ui/Mastering-Android-Themes-Chapter4/)
 * [Sample Github Repository]({{site.techgit}})
 
 <br/>
@@ -143,4 +143,4 @@ To grasp themes and the concept behind, we needed to understand the alternatives
 {: .box-note}
 Share the article if you like it and follow me for the updates.
 
-[Click here to read Chapter 2.](/2018-04-07-Mastering-Android-Themes-Chapter-2/)
+[Click here to read Chapter 2.](/android/ui/Mastering-Android-Themes-Chapter-2/)

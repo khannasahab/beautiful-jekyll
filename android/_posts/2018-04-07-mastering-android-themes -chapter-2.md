@@ -1,14 +1,14 @@
 ---
 layout: post
 title: Mastering Android Themes - Chapter 2
-categories: ['android','blog']
 gh-repo: g24khanna/Dynamic-Theme-Example
 gh-badge: [star, fork, follow]
-category: [android, ui]
+categories: [ android, ui ]
 tags: [android, adroid styling, app development]
+comments: true
 ---
 
-This is chapter 2 of our Mastering Android themes series. If you have not read [Chapter 1](/2018-04-07-mastering-android-themes-chapter-1/), I recommend you to spend 5 minutes.
+This is chapter 2 of our Mastering Android themes series. If you have not read [Chapter 1](/android/ui/mastering-android-themes-chapter-1/), I recommend you to spend 5 minutes.
 
 From chapter 1, we agreed on we will not remain novice and hardcode anything. We will not write semantic same names for the sake of no-hardcoding and we will use styles for reusability. Lets see how our expert developer improves the last approach from competent peers.
 
@@ -38,8 +38,7 @@ Problem with former approach is there is no common ground between designers and 
 Expert developer understand the key to a successful project is communication between teams. Putting other way, A project is bound to fail because of miscommunication or vague communication. Design and development team need to communicate every single day. Consider following 2 discussions.
 
 >Discussion 1:
->Designer to developer: lets make the text in cards black, margin 16dp between items on home page because  
->that is content and make padding 8dp on borders because we have standard 8dp spacing around window. 
+>Designer to developer: lets make the text in cards black, margin 16dp between items on home page because that is content and make padding 8dp on borders because we have standard 8dp spacing around window. 
 >Competent++ examples on chapter 1 fall in this category.
 
 
@@ -111,4 +110,4 @@ Expert are experienced competent developers who understand the power of common d
 {: .box-note}
 Share the article if you like it and follow me for the updates.
 
-[Click here to read Chapter 3.](2018-04-07-mastering-android-themes-chapter-3/)
+[Click here to read Chapter 3.](/android/ui/mastering-android-themes-chapter-3/)
