@@ -33,6 +33,13 @@ layout: base
 
       <article role="main" class="blog-post">
         {{ content }}
+        {% if page.share_request %}
+        <p class="box-note">
+          👉 If you like article, click on ♥️ recommend and share on social 👥 media.
+          </br>👉 Feel free to comment 💬
+          </br>👉 Follow me 👀 for the more interesting articles.
+        </p>
+        {% endif %}
       </article>
 
       {% if page.tags.size > 0 %}
