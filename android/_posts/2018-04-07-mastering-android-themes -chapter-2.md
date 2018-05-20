@@ -5,7 +5,7 @@ gh-repo: g24khanna/Dynamic-Theme-Example
 gh-badge: [star, fork, follow]
 categories: [ android, ui ]
 tags: [android, adroid styling, app development]
-comments: true
+share_request: true
 ---
 
 This is chapter 2 of our Mastering Android themes series. If you have not read [Chapter 1](/android/ui/mastering-android-themes-chapter-1/), I recommend you to spend 5 minutes.
@@ -107,7 +107,4 @@ android:theme="@style/ThemeGrey"
 
 Expert are experienced competent developers who understand the power of common design language which facilitates communication, readability and maintainability. They also create styles whenever needed and collaborate with designers for a design language. They define styles which act as theme with strong terminologies being used.
 
-{: .box-note}
-Share the article if you like it and follow me for the updates.
-
-[Click here to read Chapter 3.](/android/ui/mastering-android-themes-chapter-3/)
+**[Click here to read Chapter 3.](/android/ui/mastering-android-themes-chapter-3/)**

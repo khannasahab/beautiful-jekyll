@@ -6,6 +6,7 @@ gh-repo: g24khanna/Dynamic-Theme-Example
 gh-badge: [star, fork, follow]
 categories: [android, ui]
 tags: [android, adroid styling, app development]
+share_request: true
 ---
 
 Who does not want to style their Android app? Unfortunately there are very few resources available online to learn styling and theming. I thought to share something simple yet powerful.
@@ -140,7 +141,5 @@ To grasp themes and the concept behind, we needed to understand the alternatives
 ### Conclusion
 >Novice < Competent < Competent++ < Expert < Master; Lets see what expert and a master has to offer in next chapters.
 
-{: .box-note}
-Share the article if you like it and follow me for the updates.
 
-[Click here to read Chapter 2.](/android/ui/Mastering-Android-Themes-Chapter-2/)
+**[Click here to read Chapter 2.](/android/ui/Mastering-Android-Themes-Chapter-2/)**
