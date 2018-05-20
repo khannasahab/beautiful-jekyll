@@ -33,8 +33,10 @@ a:focus {
   color: {{ site.hover-col }};
 }
 blockquote {
-  color: #808080;
+  color: rgba(0, 0, 0, 0.8);
   font-style: italic;
+  font-size: 18px;
+  border-left: 3px solid rgba(0,0,0,.7);
 }
 blockquote p:first-child {
   margin-top: 0;
