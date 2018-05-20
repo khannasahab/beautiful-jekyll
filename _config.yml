@@ -31,6 +31,9 @@ description: Tech enthusiast, Trainer, Android Engineer, Product Engineer, Trave
 navbar-links:
   About Me: "aboutme"
   Blog: "blogs"
+  StartUp:
+    - Watstime: "watstime"
+    - xxx-xxxx: "Work In Progress"
   Resources:
     - Beautiful Jekyll: "http://deanattali.com/beautiful-jekyll/"
     - Learn markdown: "http://www.markdowntutorial.com/"
@@ -126,7 +129,7 @@ url-pretty: ""  # eg. "deanattali.com/beautiful-jekyll"
 
 # --- Misc --- #
 # Fill in your Disqus shortname (NOT the userid) if you want to support Disqus comments
-#disqus: ""
+disqus: "gaurav-khanna"
 
 # Facebook App ID
 # fb_app_id: ""
@@ -145,7 +148,7 @@ title-separator: "-"
 timezone: "America/Vancouver"
 markdown: kramdown
 highlighter: rouge
-permalink: /:year-:month-:day-:title/
+permalink: /:categories/:title/
 paginate: 5
 
 kramdown:
