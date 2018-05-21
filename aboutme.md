@@ -13,7 +13,7 @@ Hi there, My name is Gaurav Khanna. I am passionate about a few things in life a
 - User Experience Verifier - I believe I have  a good eye for user experience
 - Trainer - Did I mention I was a teacher/trainer once and I like teaching
 - DDD - 'Data driven development' We trust in God, rest everyone bring data
-- Tech enthusiast - from gadgets to software, whatever leads to autmation. Now you know what sort of presents I like ;)
+- Tech enthusiast - from gadgets to software, whatever leads to automation. Now you know what sort of presents I like ;)
 - Web - I understand basics and can do POC. Have tried backend development and maintained AWS for one of my startup. Maintaining this blog myself.
 - StartUp - Worked in couple of startups and tried 2 of my own.
 
