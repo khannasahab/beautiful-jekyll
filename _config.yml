@@ -1,7 +1,7 @@
 # --- General options --- #
 
 techgit: "https://github.com/g24khanna/Dynamic-Theme-Example"
-
+personal_email: "khannasahab.gaurav@gmail.com"
 #build options
 incremental: true
 
@@ -31,9 +31,14 @@ description: Tech enthusiast, Trainer, Android Engineer, Product Engineer, Trave
 navbar-links:
   About Me: "aboutme"
   Blog: "blogs"
+  Training: "training"
   StartUp:
-    - Watstime: "watstime"
-    - xxx-xxxx: "Work In Progress"
+    - Watstime: "startup/watstime"
+    - xxx-xxxx: "startup/comingsoon"
+  Others:
+    - Life Blog: "blogs/life"
+    - Travel: "blogs/travel"
+
   #Resources:
    # - Beautiful Jekyll: "http://deanattali.com/beautiful-jekyll/"
     #- Learn markdown: "http://www.markdowntutorial.com/"
