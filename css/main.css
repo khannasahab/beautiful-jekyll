@@ -32,6 +32,11 @@ a:hover,
 a:focus {
   color: {{ site.hover-col }};
 }
+
+.link-no-color a {
+  color: #404040;
+}
+
 blockquote {
   color: rgba(0, 0, 0, 0.8);
   font-style: italic;
@@ -783,4 +788,8 @@ td.gutter {
   color: #808080;
   font-style: italic;
   font-size: 16px;
+}
+
+.text-roboto {
+  font-family: 'sans-serif'
 }
