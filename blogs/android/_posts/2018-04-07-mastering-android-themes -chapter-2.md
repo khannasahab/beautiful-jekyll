@@ -8,12 +8,14 @@ tags: [android, adroid styling, app development]
 share_request: true
 ---
 
-This is chapter 2 of our Mastering Android themes series. If you have not read [Chapter 1](/android/ui/mastering-android-themes-chapter-1/), I recommend you to spend 5 minutes.
+This is chapter 2 of our Mastering Android themes series. If you have not read [Chapter 1](/blogs/android/ui/mastering-android-themes-chapter-1/), I recommend you to spend 5 minutes.
 
 From chapter 1, we agreed on we will not remain novice and hardcode anything. We will not write semantic same names for the sake of no-hardcoding and we will use styles for reusability. Lets see how our expert developer improves the last approach from competent peers.
 
 {: .box-note}
 Note: This chapter focuses on theme basics along with design language. If you want to learn only about themes, feel free to jump to next chapter. However, I recommend to read it.
+
+![](https://cdn-images-1.medium.com/max/1600/1*Qjptdilv42CsLCrnoO_YaA.gif)
 
 ### Developer level - Expert
 
@@ -107,4 +109,4 @@ android:theme="@style/ThemeGrey"
 
 Expert are experienced competent developers who understand the power of common design language which facilitates communication, readability and maintainability. They also create styles whenever needed and collaborate with designers for a design language. They define styles which act as theme with strong terminologies being used.
 
-**[Click here to read Chapter 3.](/android/ui/mastering-android-themes-chapter-3/)**
+**[Click here to read Chapter 3.](/blogs/android/ui/mastering-android-themes-chapter-3/)**

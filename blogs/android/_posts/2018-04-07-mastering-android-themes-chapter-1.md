@@ -1,7 +1,6 @@
 ---
 layout: post
 title: Mastering Android Themes - Chapter 1
-categories: ['android','blog']
 gh-repo: g24khanna/Dynamic-Theme-Example
 gh-badge: [star, fork, follow]
 categories: [android, ui]
@@ -16,9 +15,9 @@ For the sake of this series, lets divide developers in 4 categories. Novice, Com
 
 #### Index
 * Chapter 1 (Novice and Competent): You are reading
-* Chapter 2 [(Expert - Design Language)](/android/ui/mastering-android-themes-chapter-2/)
-* Chapter 3 [(Themes)](/android/ui/Mastering-Android-Themes-Chapter3/)
-* Chapter 4 [(Dynamic Themes and Conclusion)](/android/ui/Mastering-Android-Themes-Chapter4/)
+* Chapter 2 [(Expert - Design Language)](/blogs/android/ui/mastering-android-themes-chapter-2/)
+* Chapter 3 [(Themes)](/blogs/android/ui/mastering-android-themes-chapter-3/)
+* Chapter 4 [(Dynamic Themes and Conclusion)](/blogs/android/ui/mastering-android-themes-chapter-4/)
 * [Sample Github Repository]({{site.techgit}})
 
 <br/>
@@ -26,6 +25,8 @@ For the sake of this series, lets divide developers in 4 categories. Novice, Com
 Our motto from this series is to master Android themes. At the end of this series, you should be able to write an app with more than 1 theme and dynamic theme as well. Along the way you will learn various ways to style an Android app with reasoning of what is best. We have shared a sample git repo with example of dynamic themes. Recommend you to open after last chapter.
 
 Make sure you read all chapters to connect the dots. We have put effort to keep it simple and fun. Grab a coffee, tea, wine, beer, kahwah and lets get started.
+
+![](https://cdn-images-1.medium.com/max/1600/1*Qjptdilv42CsLCrnoO_YaA.gif)
 
 ## Novice
 These developers are new to Android ecosystem and they just want to get things done. When it comes to styling, these developers follow the very basic approach which is Hard coding (either in code or xml). Example:
@@ -142,4 +143,4 @@ To grasp themes and the concept behind, we needed to understand the alternatives
 >Novice < Competent < Competent++ < Expert < Master; Lets see what expert and a master has to offer in next chapters.
 
 
-**[Click here to read Chapter 2.](/android/ui/Mastering-Android-Themes-Chapter-2/)**
+**[Click here to read Chapter 2.](/blogs/android/ui/Mastering-Android-Themes-Chapter-2/)**
