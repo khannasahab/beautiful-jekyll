@@ -143,4 +143,4 @@ To grasp themes and the concept behind, we needed to understand the alternatives
 >Novice < Competent < Competent++ < Expert < Master; Lets see what expert and a master has to offer in next chapters.
 
 
-**[Click here to read Chapter 2.](/blogs/android/ui/Mastering-Android-Themes-Chapter-2/)**
+**[Click here to read Chapter 2.](/blogs/android/ui/mastering-android-themes-chapter-2/)**
