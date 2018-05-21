@@ -4,12 +4,17 @@ title: Test markdown
 subtitle: Each post also has a subtitle
 gh-repo: g24khanna/Dynamic-Theme-Example
 gh-badge: [star, fork, follow]
+categories: [android]
 tags: [test]
 ---
 
 You can write regular [markdown](http://markdowntutorial.com/) here and Jekyll will automatically convert it to a nice webpage.  I strongly encourage you to [take 5 minutes to learn how to write in markdown](http://markdowntutorial.com/) - it'll teach you how to transform regular text into bold/italics/headings/tables/etc.
 
 **Here is some bold text**
+
+*How about Italic*
+
+OR ~~Striked text~~
 
 ## Here is a secondary heading
 
@@ -71,3 +76,13 @@ You can add notification, warning and error boxes like this:
 
 {: .box-error}
 **Error:** This is an error box.
+
+### Plain
+
+{: .box-plain}
+When you have to think inside the box!
+
+### Bordered
+
+{: .box-border}
+Sometimes things are good with boxed boundary and how about this
