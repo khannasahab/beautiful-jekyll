@@ -707,7 +707,7 @@ td.gutter {
 }
 
 /* --- Notification boxes --- */
-.box-note, .box-warning, .box-error, .box-plain {
+.box-note, .box-warning, .box-error, .box-plain, .box-bordered {
   padding: 15px 15px 15px 10px;
   margin: 20px 20px 20px 5px;
   border: 1px solid #eee;
@@ -733,6 +733,11 @@ td.gutter {
 .box-plain {
   background-color: #F1F1F1;
   border: none;
+}
+
+.box-bordered {
+  box-shadow: 0 1px 4px rgba(0, 0, 0, 0.1);
+  border: 1px solid rgba(0, 0, 0, 0.1);
 }
 
 /* Fix table border github gist snippets */
