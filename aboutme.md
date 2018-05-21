@@ -11,9 +11,10 @@ Hi there, My name is Gaurav Khanna. I am passionate about a few things in life a
 - Android Engineer - *Yuppp..* I develop apps and I love it
 - Product Engineer - Startups + Create meaningful stuff
 - User Experience Verifier - I believe I have  a good eye for user experience
-- Trainer - Did I mention I was a teacher/trainer once and I like teaching (*if I know concept)
+- Trainer - Did I mention I was a teacher/trainer once and I like teaching
 - DDD - 'Data driven development' We trust in God, rest everyone bring data
 - Tech enthusiast - from gadgets to software, whatever leads to autmation. Now you know what sort of presents I like ;)
+- Web - I understand basics and can do POC. Have tried backend development and maintained AWS for one of my startup. Maintaining this blog myself.
 - StartUp - Worked in couple of startups and tried 2 of my own.
 
 ### Personal life
@@ -26,6 +27,7 @@ Hi there, My name is Gaurav Khanna. I am passionate about a few things in life a
 - Social Games - Card games, Darts, bowling, team bonding games! Count me in!
 - Pool/Snooker - A game I want to become expert in
 - Fitness enthusiast - Your body is the only place you live in, keep it clean
+- Favourite Colors - White, black, blue and ~~50~~ shades of gray
 - ... *sshhhh...* lets keep few things hidden
 
 ### Social life
