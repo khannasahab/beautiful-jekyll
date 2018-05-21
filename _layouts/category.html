@@ -2,6 +2,9 @@
 layout: page
 ---
 
+<div role="main" class="blog-post">
+  {{ content }}
+</div>
 
 <div class="posts-list">
   {% for post in site.categories[page.category] %}
