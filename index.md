@@ -8,21 +8,21 @@ use-site-title: true
 ### Hi there, let's see what interests you.
 
 {: .box-bordered .link-no-color}
-#### 👱 [You can read about me here](/aboutme)
+#### 👱 &nbsp;[You can read about me here](/aboutme)
 
 {: .box-bordered .link-no-color}
-#### 📖 [Here are some of Android blogs I wrote](/blogs/android)
-
-
-{: .box-bordered .link-no-color}
-#### 🖥 [Are you looking for training?](/training)
+#### 📖 &nbsp;[Here are some of Android blogs I wrote](/blogs/android)
 
 
 {: .box-bordered .link-no-color}
-#### ⏳ [Wanna know about my startup(s)?](/startup)
+#### 🖥 &nbsp;[Are you looking for training?](/training)
+
 
 {: .box-bordered .link-no-color}
-#### 👉 [Wanna hire me?](/hireme)
+#### ⏳ &nbsp;[Wanna know about my startup(s)?](/startup)
+
+{: .box-bordered .link-no-color}
+#### 👉 &nbsp;[Wanna hire me?](/hireme)
 
 **Featured Article**
 
