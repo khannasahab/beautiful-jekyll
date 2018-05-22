@@ -3,8 +3,9 @@ layout: page
 use-site-title: true
 ---
 <!-- If I do not apply any class here, theme is taking it as heading which we want to avoid  -->
-{: .link-no-color}
-## Hi there, let's see what interests you.
+
+{: .box-plain}
+### Hi there, let's see what interests you.
 
 {: .box-bordered .link-no-color}
 #### 👱 [You can read about me here](/aboutme)
