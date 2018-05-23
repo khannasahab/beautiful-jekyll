@@ -6,6 +6,7 @@ gh-badge: [star, fork, follow]
 categories: [android, ui]
 tags: [android, adroid styling, app development]
 share_request: true
+subscribe_email: true
 ---
 
 

@@ -6,6 +6,7 @@ gh-badge: [star, fork, follow]
 categories: [android, ui]
 tags: [android, adroid styling, app development]
 share_request: true
+subscribe_email: true
 ---
 
 This is chapter 4 of our [Mastering Android themes series](/blogs/android/mastering-android-themes). If you have not read

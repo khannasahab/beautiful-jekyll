@@ -6,6 +6,7 @@ gh-badge: [star, fork, follow]
 categories: [android, ui]
 tags: [android, adroid styling, app development]
 share_request: true
+subscribe_email: true
 ---
 
 Who does not want to style their Android app? Unfortunately there are very few resources available online to learn styling and theming. I thought to share something simple yet powerful. This is chapter 1 of [Series](/blogs/android/mastering-android-themes).

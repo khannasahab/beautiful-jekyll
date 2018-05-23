@@ -40,6 +40,7 @@ description="Finally we will create custom themes and use them stiatically and d
 url="/blogs/android/ui/mastering-android-themes-chapter-4"
 %}
 
+{% include subscribe_email.html %}
 
 {% include training_conf.html %}
 
