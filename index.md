@@ -26,8 +26,10 @@ use-site-title: true
 
 **Featured Article**
 
-{: .box-bordered .link-no-color}
-[**Mastering Android themes**<br/>
-In this series you will learn about Android styling and themes. This post was published in
-Android weekly and it is well accepted on our Medium page with aprx 3k upvotes.](/blogs/android/ui/mastering-android-themes-chapter-1)
+{% include post_card.html 	
+subtitle="Mastering Android themes" 
+description="In this series you will learn about Android styling and themes. This post was published in Android weekly and it is well accepted on our Medium page with aprx 3k upvotes ..."
+url="/blogs/android/mastering-android-themes/"
+%}
+
 
