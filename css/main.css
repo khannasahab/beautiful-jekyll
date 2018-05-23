@@ -793,3 +793,177 @@ td.gutter {
 .text-roboto {
   font-family: 'sans-serif'
 }
+
+/**/
+.material-button-raised {
+  position: relative;
+  display: inline-block;
+  box-sizing: border-box;
+  margin: 0 8px;
+  border: none;
+  border-radius: 2px;
+  padding: 0 16px;
+  min-width: 64px;
+  height: 36px;
+  vertical-align: middle;
+  text-align: center;
+  text-overflow: ellipsis;
+  text-transform: uppercase;
+  color: #fff;
+  background-color: #373737;
+  box-shadow: 0px 3px 1px -2px rgba(0, 0, 0, 0.2), 0px 2px 2px 0px rgba(0, 0, 0, 0.14), 0px 1px 5px 0px rgba(0, 0, 0, 0.12);
+  font-size: 14px;
+  font-weight: 500;
+  line-height: 36px;
+  overflow: hidden;
+  outline: none;
+  cursor: pointer;
+  transition: box-shadow 0.2s;
+}
+
+.material-button-raised:hover,
+.material-button-raised:focus {
+  box-shadow: 0px 2px 4px -1px rgba(0, 0, 0, 0.2), 0px 4px 5px 0px rgba(0, 0, 0, 0.14), 0px 1px 10px 0px rgba(0, 0, 0, 0.12);
+}
+
+.material-button-raised:active {
+  box-shadow: 0px 5px 5px -3px rgba(0, 0, 0, 0.2), 0px 8px 10px 1px rgba(0, 0, 0, 0.14), 0px 3px 14px 2px rgba(0, 0, 0, 0.12);
+}
+
+.material-button-raised:disabled {
+  color: rgba(0, 0, 0, 0.38);
+  background-color: rgba(0, 0, 0, 0.12);
+  box-shadow: none;
+  cursor: initial;
+}
+
+.material-button-raised::before {
+  content: "";
+  position: absolute;
+  left: 0;
+  right: 0;
+  top: 0;
+  bottom: 0;
+  background-color: currentColor;
+  opacity: 0;
+  transition: opacity 0.2s;
+}
+
+.material-button-raised:hover::before {
+  opacity: 0.12;
+}
+
+.material-button-raised:focus::before {
+  opacity: 0.2;
+}
+
+.material-button-raised:active::before {
+  opacity: 0.32;
+}
+
+.material-button-raised:disabled::before {
+  opacity: 0;
+}
+
+.material-button-raised::after {
+  content: "";
+  position: absolute;
+  left: 50%;
+  top: 18px;
+  border-radius: 50%;
+  padding: 50%;
+  width: 32px;
+  height: 32px;
+  background-color: currentColor;
+  opacity: 0;
+  transform: translate(-50%, -50%) scale(1) ;
+  transition: opacity 1s, transform 0.5s;
+}
+
+.material-button-raised:active::after {
+  opacity: 0.4;
+  transform: translate(-50%, -50%) scale(0);
+  transition: transform 0s;
+}
+
+.material-button-raised:disabled::after {
+  opacity: 0;
+}
+
+.material-group        {  position:relative;  margin-bottom:32px;
+  margin-top: 32px;}
+
+input.md-input {
+  font-size:18px;
+  padding:10px 10px 10px 5px;
+  display:block;
+  width:300px;
+  border:none;
+  border-bottom:1px solid #757575;
+}
+input.md-input:focus     { outline:none; }
+
+label.md-label {
+  color:#999;  font-size:18px;
+  font-weight:normal;
+  position:absolute;
+  pointer-events:none;
+  left:5px;
+  top:10px;
+  transition:0.2s ease all;  -moz-transition:0.2s ease all;  -webkit-transition:0.2s ease all;
+}
+
+/* active state */
+input.md-input:focus ~ label.md-label, input.md-input:valid ~ label.md-label    {
+  top:-20px;
+  font-size:14px;
+  color:#404040;
+}
+
+.md-bar  { position:relative; display:block; width:300px; }
+.md-bar:before, .md-bar:after   {
+  content:'';
+  height:2px;  width:0;
+  bottom:1px;  position:absolute;
+  background:#404040;  transition:0.2s ease all;  -moz-transition:0.2s ease all;  -webkit-transition:0.2s ease all;
+}
+.md-bar:before {
+  left:50%;
+}
+.md-bar:after {
+  right:50%;}
+
+/* active state */
+input.md-input:focus ~ .md-bar:before, input.md-input:focus ~ .md-bar:after {
+  width:50%;
+}
+
+/* HIGHLIGHTER ================================== */
+.md-highlight {
+  position:absolute;
+  height:60%;  width:100px;  top:25%;  left:0;
+  pointer-events:none;
+  opacity:0.5;
+}
+
+/* active state */
+input.md-input:focus ~ .md-highlight {
+  -webkit-animation:inputHighlighter 0.3s ease;
+  -moz-animation:inputHighlighter 0.3s ease;
+  animation:inputHighlighter 0.3s ease;
+}
+
+/* ANIMATIONS ================ */
+@-webkit-keyframes inputHighlighter {
+  from { background:#404040; }
+  to  { width:0; background:transparent; }
+}
+@-moz-keyframes inputHighlighter {
+  from { background:#404040; }
+  to  { width:0; background:transparent; }
+}
+@keyframes inputHighlighter {
+  from { background:#404040; }
+  to  { width:0; background:transparent; }
+}
+
