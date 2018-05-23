@@ -1,0 +1,30 @@
+ <article class="post-preview box-bordered">
+    <a href="{{ include.url }}">
+      <h2 class="post-title">{{ include.title }}</h2>
+
+      {% if include.subtitle %}
+      <h3 class="post-subtitle">
+        {{ include.subtitle }}
+      </h3>
+      {% endif %}
+
+     
+      <div class="post-entry">
+
+      {% if include.description %}
+        {{ include.description }}
+      {% endif %}
+
+      <span class="post-read-more">[Read&nbsp;More]</span>
+        
+      </div>
+      
+
+      {% if include.tags %}
+      <div class="blog-tags">
+        {{ include.tags }}
+      </div>
+      {% endif %}
+
+  </a>
+</article>
