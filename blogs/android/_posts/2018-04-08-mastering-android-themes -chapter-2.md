@@ -8,7 +8,7 @@ tags: [android, adroid styling, app development]
 share_request: true
 ---
 
-This is chapter 2 of our Mastering Android themes series. If you have not read [Chapter 1](/blogs/android/ui/mastering-android-themes-chapter-1/), I recommend you to spend 5 minutes.
+This is chapter 2 of our [Mastering Android themes series](/blogs/android/mastering-android-themes). If you have not read [Chapter 1](/blogs/android/ui/mastering-android-themes-chapter-1/), I recommend you to spend 5 minutes.
 
 From chapter 1, we agreed on we will not remain novice and hardcode anything. We will not write semantic same names for the sake of no-hardcoding and we will use styles for reusability. Lets see how our expert developer improves the last approach from competent peers.
 

@@ -8,7 +8,7 @@ tags: [android, adroid styling, app development]
 share_request: true
 ---
 
-Who does not want to style their Android app? Unfortunately there are very few resources available online to learn styling and theming. I thought to share something simple yet powerful.
+Who does not want to style their Android app? Unfortunately there are very few resources available online to learn styling and theming. I thought to share something simple yet powerful. This is chapter 1 of [Series](/blogs/android/mastering-android-themes).
 
 {: .box-note}
 For the sake of this series, lets divide developers in 4 categories. Novice, Competent, Expert and Master. In this series, we will explain the path an Android developer takes from novice to master and we will make you master today.

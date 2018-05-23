@@ -8,7 +8,7 @@ tags: [android, adroid styling, app development]
 share_request: true
 ---
 
-This is chapter 4 of our Mastering Android themes series. If you have not read
+This is chapter 4 of our [Mastering Android themes series](/blogs/android/mastering-android-themes). If you have not read
 [Chapter 1](/blogs/android/ui/mastering-android-themes-chapter-1),
 [Chapter 2](/blogs/android/ui/mastering-android-themes-chapter-2)
 or [Chapter 3](/blogs/android/ui/mastering-android-themes-chapter-3).
