@@ -13,19 +13,6 @@ Who does not want to style their Android app? Unfortunately there are very few r
 {: .box-note}
 For the sake of this series, lets divide developers in 4 categories. Novice, Competent, Expert and Master. In this series, we will explain the path an Android developer takes from novice to master and we will make you master today.
 
-#### Index
-* Chapter 1 (Novice and Competent): You are reading
-* Chapter 2 [(Expert - Design Language)](/blogs/android/ui/mastering-android-themes-chapter-2/)
-* Chapter 3 [(Themes)](/blogs/android/ui/mastering-android-themes-chapter-3/)
-* Chapter 4 [(Dynamic Themes and Conclusion)](/blogs/android/ui/mastering-android-themes-chapter-4/)
-* [Sample Github Repository]({{site.techgit}})
-
-<br/>
-#### Preface
-Our motto from this series is to master Android themes. At the end of this series, you should be able to write an app with more than 1 theme and dynamic theme as well. Along the way you will learn various ways to style an Android app with reasoning of what is best. We have shared a sample git repo with example of dynamic themes. Recommend you to open after last chapter.
-
-Make sure you read all chapters to connect the dots. We have put effort to keep it simple and fun. Grab a coffee, tea, wine, beer, kahwah and lets get started.
-
 ![](https://cdn-images-1.medium.com/max/1600/1*Qjptdilv42CsLCrnoO_YaA.gif)
 
 ## Novice
