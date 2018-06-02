@@ -32,11 +32,11 @@ The point I want to make is we need a good balance between all pillars and no ba
 ### 8 hour work
 Yes, 8-hour work including commute. Work is no doubt very important in human life and it differentiates us from other animals. Yet most of us spend our day in *Work, Eat and Sleep* cycle. 
 
-Problem is most of the people have nothing else to achieve and spend time with. Work does not offer the deep satisfaction they want yet they are never ready to endure the pain of sitting idle in boredom and figure what next to do They feel lost. They stretch the work of 2 hours in the workday of 8 hours. They are passing the time.
-
-On the other hand, you need to embrace the work you do. Make it sharp **8-hour routine** along with commute. Yes, it is not feasible for everyone to make this change instantly but if you are willing to improve your life, you will find ways to do so. If you are not happy with the work, keep trying unless you land in a place you enjoy. You are not dead if you are breathing. Don't act like one.
+Problem is most of the people have nothing else to achieve and spend time with. Work does not offer the deep satisfaction they want yet they are never ready to endure the pain of sitting idle in boredom and figure what next to do They feel lost. They stretch the work of 2 hours in the workday of 8 hours. They are passing the time. They need to understand stressing on one thing does not help. Your mind needs break. Not only that, it is one of the pillars not THE PILLAR of life.
 
 >Love what you do, Do what you love
+
+You need to embrace the work you do. Make it sharp **8-hour routine** along with commute. Yes, it is not feasible for everyone to make this change instantly but if you are willing to improve your life, you will find ways to do so. If you are not happy with the work, keep trying unless you land in a place you enjoy. You are not dead if you are breathing. Don't act like one.
 
 Lastly, you have to divide those 8 hour of work in concrete hours to get better results. That's how children do it in school. You have to do too.
 
