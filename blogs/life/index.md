@@ -1,6 +1,6 @@
 ---
-layout: page
-title: Life Blog
-subtitle: 🚧 Work in progress 🚧
+layout: category
+title: Lets spend a good life
+category: life
 ---
 
