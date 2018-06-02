@@ -4,6 +4,7 @@ title: The 8 hour principle
 subtitle: For a healthy and fulfilling life
 bigimg: /img/8-hour-principle.jpeg
 categories: [life]
+subscribe_email_other: true
 tags: [life, personal development]
 ---
 
