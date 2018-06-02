@@ -42,11 +42,11 @@ Instead of mentioning **personal, friends & family OR social**. I intentionally 
 
 The unique characteristic of this pillar is there is a lot going on here. From entertainment to health, from relations to social life all comes under this umbrella. You can not achieve everything daily in mere 8 hours. One suggestion is to note down 16 things which are important to you and do not stress on everything; if you accomplish 4 things in those 8 hours. Call it a fruitful day.
 
-The last pillar is flexible. This is the pillar they borrow some time from. The other two pillars are not negotiable. Few people are looking for a new job, they prepare for job spending time from third pillar. Sometimes something unexpected occurs and you need to borrow time from the third pillar again. In reality, it depends on how strong your other pillars are. If you know you give 100% at work, nobody will expect from you and you will have confidence to say No. You should aim for not compromising any pillar to the extent possible.
+The last pillar is flexible. This is the pillar people borrow some time from. The other two pillars are not negotiable. Few people are looking for a new job, they prepare for job spending time from third pillar. Sometimes something unexpected occurs and you need to borrow time from the third pillar again. In reality, it depends on how strong your other pillars are. If you know you give 100% at work, nobody will expect from you and you will have confidence to say No. You should aim for not compromising any pillar to the extent possible.
 
 {: .box-plain}
 Remember, Time is a commodity. You have it limited and you can spend on right things to feel better OR you can ignore it until you run out of it and then hit the crisis. Choice is yours as Life.
 
-The essence of this article is you need to manage your time. Make it strict 8 hours per pillar and you will deal less chaos. “What gets measured, gets managed"
+The essence of this article is you need to manage your time. Make it strict 8 hours per pillar and you will deal less chaos. Keep in mind, “What gets measured, gets managed"
 
 
