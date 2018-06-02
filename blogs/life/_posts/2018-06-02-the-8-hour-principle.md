@@ -35,17 +35,25 @@ Problem is most of the people have nothing else to achieve and spend time with. 
 
 On the other hand, you need to embrace the work you do. Make it sharp **8-hour routine** along with commute. Yes, it is not feasible for everyone to make this change instantly but if you are willing to improve your life, you will find ways to do so. If you are not happy with the work, keep trying unless you land in a place you enjoy. You are not dead if you are breathing. Don't act like one.
 
+>Love what you do, Do what you love
+
 Lastly, you have to divide those 8 hour of work in concrete hours to get better results. That's how children do it in school. You have to do too.
 
-### 8 hour Other
+### 8 hour - Other
 Instead of mentioning **personal, friends & family OR social**. I intentionally wrote **Other**. Everyone has a different priority. Someday it is something personal you want to spend time at. Someday with friends and family. Someday social event and so on. The important point is at the end of day you know you did what made your day fruitful.
 
 The unique characteristic of this pillar is there is a lot going on here. From entertainment to health, from relations to social life all comes under this umbrella. You can not achieve everything daily in mere 8 hours. One suggestion is to note down 16 things which are important to you and do not stress on everything; if you accomplish 4 things in those 8 hours. Call it a fruitful day.
 
-The last pillar is flexible. This is the pillar people borrow some time from. The other two pillars are not negotiable. Few people are looking for a new job, they prepare for job spending time from third pillar. Sometimes something unexpected occurs and you need to borrow time from the third pillar again. In reality, it depends on how strong your other pillars are. If you know you give 100% at work, nobody will expect from you and you will have confidence to say No. You should aim for not compromising any pillar to the extent possible.
+The last pillar is flexible. This is the pillar people borrow some time from. The other two pillars are not negotiable. Few people are looking for a new job, they prepare for job spending time from third pillar. Sometimes something unexpected occurs and you need to borrow time from the third pillar again. In reality, it depends on how strong your other pillars are. If you know you give 100% at work, nobody will expect more from you and you will have confidence to say No. You should aim for not compromising any pillar to the extent possible.
 
 {: .box-plain}
 Remember, Time is a commodity. You have it limited and you can spend on right things to feel better OR you can ignore it until you run out of it and then hit the crisis. Choice is yours as Life.
+
+{: .box-bordered}
+&nbsp;&nbsp;&nbsp;&nbsp;**Tips**
+<br/>👉 Do not mix pillars time. If you lend time from one pillar, return back
+<br/>👉 Do not cheat with pillars. Avoid working at sleep time, sleeping at personal time, playing at work. You got the point.
+<br/>👉 Be honest with yourself, It's f**ing your own life
 
 The essence of this article is you need to manage your time. Make it strict 8 hours per pillar and you will deal less chaos. Keep in mind, “What gets measured, gets managed"
 
