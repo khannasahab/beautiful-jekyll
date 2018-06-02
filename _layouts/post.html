@@ -37,6 +37,9 @@ layout: base
         {% if page.subscribe_email %}
           {% include subscribe_email.html %}
         {% endif %}
+        {% if page.subscribe_email_other %}
+          {% include subscribe_email_other.html %}
+        {% endif %}
 
         {% if page.share_request %}
         <p class="box-plain">
