@@ -20,7 +20,7 @@ Have you ever encountered this question: What is difference between getContext()
 
 **Note**: We expect knowledge of Android basics like Activity, Fragment, Broadcast Receiver and other building blocks. If you are a new developer who is starting journey to Android world, this might not be the best place.
 
-*This is a long series, grab a coffee/tea/kahwa/beer and get stated*
+*This is a long series, grab a coffee/tea/kahwa/beer and get started*
 
 ### Index
 
