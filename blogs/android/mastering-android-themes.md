@@ -1,7 +1,9 @@
 ---
 layout: page
 title: Mastering Android themes
+subtitle: For beautiful and maintainable UI
 use-site-title: true
+bigimg: /img/mastering-theme/cover.jpeg
 ---
 <!-- If I do not apply any class here, theme is taking it as heading which we want to avoid  -->
 
@@ -10,9 +12,12 @@ use-site-title: true
 {: .box-plain}
 >Our motto from this series is to master Android themes. We will learn about Android styles, themes, attributes, custom themes and dynamic themes. From beginners to expereienced, this series is designed very carefully for all level of developers. Feel free to share your feedback or reach me for any other query.
 
- At the end of this series, you should be able to write an app with more than 1 theme and dynamic theme as well. Along the way you will learn various ways to style an Android app with reasoning of what is best. We have shared a sample git repo with example of dynamic themes. Recommend you to open after last chapter.
+ At the end of this series, you should be able to write an app with more than 1 theme and dynamic theme as well. Along the way you will learn various ways to style an Android app with reasoning of what is best. We have shared a sample git repo with example of dynamic themes. Recommend
+ you to open after last chapter.
 
-Make sure you read all chapters to connect the dots. We have put effort to keep it simple and fun. Grab a coffee, tea, wine, beer, kahwah and lets get started.
+Make sure you read all chapters to connect the dots. We have put effort to keep it simple and fun. Grab a coffee, tea, wine, beer, kahwah and lets get started. 
+
+*Note: This series was also published on Medium and broadcasted by [Android Weekly](https://androidweekly.net/issues/issue-307)*
 
 ### Index
 
