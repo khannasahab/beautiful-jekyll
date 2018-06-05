@@ -45,6 +45,12 @@ description="Finally we will create custom themes and use them stiatically and d
 url="/blogs/android/ui/mastering-android-themes-chapter-4"
 %}
 
+{% include post_card.html 	
+title="Summary" 
+description="Let's conclude what we learnt in all chapters. Make sure you read all chapters before jumping here ..."
+url="/blogs/android/ui/mastering-android-themes-summary"
+%}
+
 {% include subscribe_email.html %}
 
 {% include training_conf.html %}
