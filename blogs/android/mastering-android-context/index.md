@@ -48,6 +48,12 @@ description="My UI-Context also offers me multiple types of context. Let's answe
 url="/blogs/android/mastering-android-context/chapter-4"
 %}
 
+{% include post_card.html 	
+title="Summary" 
+description="Let's conclude what we learnt in all chapters. Make sure you read all chapters before jumping here ..."
+url="/blogs/android/mastering-android-context/summary"
+%}
+
 {% include subscribe_email.html %}
 
 {% include training_conf.html %}
