@@ -1,0 +1,14 @@
+  <li class="md-cards__item">
+    <div class="md-card link-no-color">
+    <a href="{{include.url}}">
+      <div class="md-card__image {{include.imgcss}}"></div>
+      <div class="md-card__content">
+        <h2 class="post-title">{{include.title}}</h2>
+        {% if include.description %}
+        <p class="post-entry">{{include.description}}</p>
+        {% endif %}
+        <!-- <button class="btn btn--block md-card__btn">{{include.cta}}</button> -->
+      </div>
+      </a>
+    </div>
+  </li>
