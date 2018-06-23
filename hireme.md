@@ -3,18 +3,14 @@ layout: page
 title: Hire Me
 ---
 
-Started my Professional journey in 2010 and fell in love with internet/software there after. [Email me](mailto:{{site.personal_email}})
+{: .box-plain}
+Hello there, I am not looking for a job right now but who says we should not keep in touch. Feel free to drop [email](mailto:{{site.personal_email}}).
+
+Started my Professional journey in 2010 and fell in love with internet/software there after. I consider myself a [Product Engineer](/blogs/software/what-is-product-engineer/).
 
 {: .box-plain}
 Core Strength : OOPS, Android & Java, git
 
-In addition I have tried following
- - Web Development (J2EE, PHP, MVC) - Working knowledge - Frameworks : Struts2 (in 2011) , Hibernate (2011), Symfony2 (2016)
-- Database - (MySQL : basic understanding of relational database, SQLITE) 
-- IDE Tools : Android Studio ( Present for Android), Basics of XCode, Working knowledge of vi editor	
-- Tools: Bugzilla, Jira , Trello, Freedcamp etc.
-* Novice in Servers, Managing AWS for Watstime. Configuration, software setup, crons etc with help from Google.
-* I do little Adobe Photoshop for day to day task - icons resize, colors overlay, Actions, Automation etc
 
 {: .box-bordered}
 **Education**
@@ -60,5 +56,8 @@ India's number 1 job portal, I worked here in setting up Android team and couple
 <br/><br/>
 I was a technical trainer in TCS ignite and we worked on side projects in Android to train new employees and to facilitate R&D.
 
+{: .box-bordered}
+Some tech stuff I have tried here and there<br/>- Web Development (J2EE, PHP, MVC) - Working knowledge - Frameworks : Struts2 (in 2011) , Hibernate (2011), Symfony2 (2016), Did I tell I love https<br/>- Database - (MySQL : basic understanding of relational database, SQLITE) <br/>- IDE Tools : Android Studio ( Present for Android), Basics of XCode, Working knowledge of vi editor	<br/>- Tools: Bugzilla, Jira , Trello, Freedcamp etc.<br/>* Novice in Servers, Managing AWS for Watstime. Configuration, software setup, crons etc with help from Google.<br/>* I do little Adobe Photoshop for day to day task - icons resize, colors overlay, Actions, Automation etc
+
 {: .box-plain .link-no-color}
-### [Email me](mailto:{{site.personal_email}})
+#### Anything else? [Email me](mailto:{{site.personal_email}})
