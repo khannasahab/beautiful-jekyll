@@ -30,7 +30,9 @@ description: Tech enthusiast, Trainer, Android Engineer, Product Engineer, Trave
 # List of links in the navigation bar
 navbar-links:
   About Me: "aboutme"
-  Blog: "blogs"
+  Blog:
+   - Android: "blogs"
+   - Software Eng: "blogs/software"
   Training: "training"
   StartUp:
     - Watstime: "startup/watstime"
