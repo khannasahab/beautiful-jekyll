@@ -1082,6 +1082,11 @@ input.md-input:focus ~ .md-highlight {
 .md-card_image_mastering_context {
   background-image: url(/img/mastering-context/cover.jpeg);
 }
+
+.md-card_image_mastering_handler {
+  background-image: url(/img/mastering-handler/cover.jpeg);
+}
+
 @keyframes inputHighlighter {
   from { background:#404040; }
   to  { width:0; background:transparent; }
