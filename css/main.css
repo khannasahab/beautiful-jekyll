@@ -978,6 +978,10 @@ input.md-input:focus ~ .md-highlight {
   width: 100%;
 }
  
+.grid-one {
+    padding: 0;
+}
+
 .grid-two {
     margin: 0 auto;
     display: grid;
