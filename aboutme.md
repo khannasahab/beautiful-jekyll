@@ -26,7 +26,7 @@ Hi there, My name is Gaurav Khanna. I am passionate about a few things in life a
 - Foodie - Who does not enjoy tasting good food!
 - Social Games - Card games, Darts, bowling, team bonding games! Count me in!
 - Pool/Snooker - A game I want to become expert in
-- Fitness enthusiast - Your body is the only place you live in, keep it clean
+- Fitness enthusiast - Your body is the only place you live in, keep it clean (Did i mention my best 100m is till date 12.5 seconds, One day it might become 11 seconds :P)
 - Favourite Colors - White, black, blue and ~~50~~ shades of gray
 - ... *sshhhh...* lets keep few things hidden
 
