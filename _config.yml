@@ -35,8 +35,8 @@ navbar-links:
    - Software Eng: "blogs/software"
   Training: "training"
   StartUp:
-    - Watstime: "startup/watstime"
-    - xxx-xxxx: "startup/comingsoon"
+    - Intro: "blogs/techpreneur/startup/intro_startup_and_techpreneur/"
+    - Blog: "blogs/techpreneur"
   Others:
     - Life Blog: "blogs/life"
     - Travel: "blogs/travel"
