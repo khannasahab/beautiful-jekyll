@@ -4,7 +4,7 @@ title: Hire Me
 ---
 
 {: .box-plain}
-Hello there, I am not looking for a job right now but who says we should not keep in touch. Feel free to drop [email](mailto:{{site.personal_email}}).
+Hello there, I am not looking for a full time job right now. I can surelt add value in your project as a consultant. If you have a small to medium sized app, I can develop for you. Feel free to drop [email](mailto:{{site.personal_email}}).
 
 Started my Professional journey in 2010 and fell in love with internet/software there after. I consider myself a [Product Engineer](/blogs/software/what-is-product-engineer/).
 
