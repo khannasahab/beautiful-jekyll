@@ -20,8 +20,14 @@ I did Masters in Computers Science from Kurukshetra University and Bachelor in c
 ### Below are couple of projects I worked in.
 
 {: .box-bordered}
+**HueHello**
+*June 2018 - Present*
+<br/><br/>
+These days I am busy creating a smart app for smart lights. I aim to become #1 app for all available smart lights. For more details read [*Startup & me*](/blogs/techpreneur/startup/intro_startup_and_techpreneur/)
+
+{: .box-bordered}
 **Philips Hue**
-*June 2017 - Present*
+*June 2017 - June 2018*
 <br/><br/>
 One of its kind and market leader in smart lights: philips hue. Part of a small android team with core responsibility of architecting and developing user facing app. It is way more complex app than it appears from outlook due to underlying protocol involved (*Zigbee*).
 
