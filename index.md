@@ -19,7 +19,7 @@ use-site-title: true
 
 
 {: .box-bordered .link-no-color}
-#### ⏳ &nbsp;[Wanna know about my startup(s)?](/startup)
+#### ⏳ &nbsp;[Wanna know about my startup(s)?](/blogs/techpreneur/startup/intro_startup_and_techpreneur/)
 
 {: .box-bordered .link-no-color}
 #### 👉 &nbsp;[Wanna hire me?](/hireme)

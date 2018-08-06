@@ -8,7 +8,7 @@ Hi there, My name is Gaurav Khanna. I am passionate about a few things in life a
 
 ### Professional life
 
-- Android Engineer - *Yuppp..* I develop apps and I love it
+- Android Engineer - I develop apps and I love it
 - Product Engineer - Startups + Create meaningful stuff
 - User Experience Verifier - I believe I have  a good eye for user experience
 - Trainer - Did I mention I was a teacher/trainer once and I like teaching
