@@ -11,7 +11,7 @@ subscribe_email: true
 Have you ever struggled with how to develop an Android wear app OR you want to learn basics of Android watch app? In either case, You are at right place.
 
 As usual, whenever Android does something new, it does not do justice to
-documentation. Recently we released an Android watch companion app for one of our appa and it was not a smooth experience. This article aims to cover the basics you need to know to develop a watch app. At the end of this article, you should be able to write a companion watch app. If you have experience in watch app, feel free to correct mistakes. I would appreciate notes.
+documentation. Recently we released an Android watch companion app for one of our apps and it was not a smooth experience. This article aims to cover the basics you need to know to develop a watch app. At the end of this article, you should be able to write a companion watch app. If you have experience in watch app, feel free to correct mistakes. I would appreciate notes.
 
 Note: Android phone app development knowledge is required for this article.
 
