@@ -4,9 +4,8 @@ title: Hire Me
 ---
 
 {: .box-plain}
-Hello there, If you are looking for an architect OR a consultant, I can surely add value in your project. If you have a small to medium sized app, I can develop for you. Feel free to drop [email](mailto:{{site.personal_email}}).
 
-Started my Professional journey in 2010 and fell in love with internet/software there after. I consider myself a [Product Engineer](/blogs/software/what-is-product-engineer/).
+Started my Professional journey in 2010 and fell in love with internet/software there after. I believe in user centric teams and consider myself a [Product Engineer](/blogs/software/what-is-product-engineer/). I like reading and writing tech blogs.
 
 {: .box-plain}
 Core Strength : OOPS, Android & Java, git
@@ -20,14 +19,14 @@ I did Masters in Computers Science from Kurukshetra University and Bachelor in c
 ### Below are couple of projects I worked in.
 
 {: .box-bordered}
-**HueHello**
-*June 2018 - Present*
+***HueHello (Side Project)***
+*July 2018 - Present*
 <br/><br/>
-These days I am busy creating a smart app for smart lights. I aim to become #1 app for all available smart lights. For more details read [*Startup & me*](/blogs/techpreneur/startup/intro_startup_and_techpreneur/)
+This is one of the side project I did worth showing. A smart app for smart lights with more than 100k downloads and 4.5 rating. For more details check [*HueHello*](https://huehello.com)
 
 {: .box-bordered}
 **Philips Hue**
-*June 2017 - June 2018*
+*June 2017 - July 2018*
 <br/><br/>
 One of its kind and market leader in smart lights: philips hue. Part of a small android team with core responsibility of architecting and developing user facing app. It is way more complex app than it appears from outlook due to underlying protocol involved (*Zigbee*).
 
