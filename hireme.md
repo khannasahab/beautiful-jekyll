@@ -15,13 +15,13 @@ Started my Professional journey in 2010 and fell in love with internet/software 
 {: .box-bordered}
 **Tech Product Manager/Owner**
 <br/><br/>
-Why am I a good candidate as a tech product owner? I have always been an Engineer with users in center of all solutions I have architected or programmed. I love to see ideas shaping into real product. I believe not every idea you have wil form into feature and ideas come from all the places. I believe in Data driven development and user-centric teams.
+Why am I a good candidate for a tech product owner? I have always been an Engineer with users in the center of all solutions I have architected or programmed. I love to see ideas shaping into a real product. I believe not every idea you have will form into feature and ideas come from all the places. I believe in Data-driven development and user-centric teams.
 <br/>
-I am good at having a sound communication with designers and developers which is crucial aspect of any software development.
+I am good at having a sound communication with designers and developers which is a crucial aspect of any software development.
 <br/><br/>
 **Track Record**
 <br/>
-I have tried 3 start-ups of my own. 2 of them were app based. One was selected in FB start-up with 5k downloads and other is ongoing app with more than 110k+ downloads and decent revenue. I am responsible for product management, prioritising ideas, engaging users, user-review replies and managing freelancer team I have. In short, a lean startup. I consider tech as a tool to achieve your vision and we should be flexible in using another tool if it is more appropriate.
+I have tried 3 start-ups of my own. 2 of them were app based. One was selected in FB start-up with 5k downloads and other is an ongoing app with more than 110k+ downloads and decent revenue. I am responsible for product management, prioritizing ideas, engaging users, user-review replies and managing freelancer team I have. In short, a lean startup. I consider tech as a tool to achieve your vision and we should be flexible in using another tool if it is more appropriate.
 
 
 {: .box-bordered}
