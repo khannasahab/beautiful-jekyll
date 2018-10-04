@@ -6,22 +6,23 @@ title: Hire Me
 {: .box-plain}
 Gaurav Khanna <br/> Product Engineer <br/> khannasahab.gaurav@gmail.com
 
-{: .box-plain}
-Started my Professional journey in 2010 and fell in love with internet/software there after. I believe in user centric teams and consider myself a [Product Engineer](/blogs/software/what-is-product-engineer/). I like reading and writing tech blogs.
 
 {: .box-plain}
-**Core Strength**<br/> Tech: Product Management, OOPS, Android & Java, git<br/>Product: I have a good eye for UX and I love to shape ideas into reality. I believe in data driven development and user centric teams
+**About me**<br/>Started my Professional journey in 2010 and fell in love with internet/software there after. I believe in user centric teams and consider myself a [Product Engineer](/blogs/software/what-is-product-engineer/). I like reading and writing tech blogs.
+
+{: .box-plain}
+**Core Strength**<br/> Tech: OOPS, Android & Java, Product Management, git<br/>Product: I have a good eye for UX and I love to shape ideas into reality. I believe in data driven development and user centric teams
 
 {: .box-bordered}
-**Tech Product Manager/Owner**
+**Why am I a good candidate?**
 <br/><br/>
-Why am I a good candidate for a tech product owner? I have always been an Engineer with users in the center of all solutions I have architected or programmed. I love to see ideas shaping into a real product. I believe not every idea you have will form into feature and ideas come from all the places. I believe in Data-driven development and user-centric teams.
+ I have always been an Engineer with users in the center of all solutions I have architected or programmed. I love to see ideas shaping into a real product. I believe not every idea you have will form into feature and ideas come from all the places. I believe in Data-driven development and user-centric teams.
 <br/>
 I am good at having a sound communication with designers and developers which is a crucial aspect of any software development.
 <br/><br/>
 **Track Record**
-<br/>
-I have tried 3 start-ups of my own. 2 of them were app based. One was selected in FB start-up with 5k downloads and other is an ongoing app with more than 110k+ downloads and decent revenue. I am responsible for product management, prioritizing ideas, engaging users, user-review replies and managing freelancer team I have. In short, a lean startup. I consider tech as a tool to achieve your vision and we should be flexible in using another tool if it is more appropriate.
+<br/><br/>
+I have tried 3 start-ups of my own. 2 of them were app based. One was selected in FB start-up with 5k downloads and other is an ongoing app with more than 110k+ downloads and decent revenue. I am responsible for developing Android app, product management, prioritizing ideas, engaging users, user-review replies and managing freelancer team I have. In short, a lean startup. I consider tech as a tool to achieve your vision and we should be flexible in using another tool if it is more appropriate.
 
 
 {: .box-bordered}
@@ -82,7 +83,7 @@ I was a technical trainer in TCS ignite and we worked on side projects in Androi
 I have tried both scrum and kanban way of agile product development and I prefer agile over the waterfall, especially in mobile apps and web. I have used JIRA as a tool for product managenent.
 <br/><br/>
 **Engineering**
-<br/>- Mobile app development (Android, Flutter) <br/>- Web Development (J2EE, PHP, MVC) <br/>- Database - (MySQL : basic understanding of relational database, SQLITE) <br/>- IDE Tools : Eclipse (Early stage of Android), Netbeans (2011 J2EE), Android Studio ( Present for Android), Working knowledge of vi editor <br/>- Tools: Git, Bugzilla, Jira , Trello, Invision, Zeplin, Freedcamp etc. <br/> - Basics of Adobe Photoshop
+<br/>- Mobile app development (Android, Flutter) <br/>- Web Development (J2EE, PHP, MVC) <br/>- Database - (MySQL : basic understanding of relational database, SQLITE) <br/>- IDE Tools : Eclipse (Early stage of Android), Netbeans (2011 J2EE), Android Studio ( Present for Android), Working knowledge of vi editor <br/>- Tools: Git, Bugzilla, Jira , Trello, Invision, Zeplin, Freedcamp etc. <br/> - Basics of Adobe Photoshop <br/> - Analytics: G.A and Firebase
 
 {: .box-plain .link-no-color}
 #### Anything else? *[Email me](mailto:{{site.personal_email}})*
