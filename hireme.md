@@ -83,7 +83,7 @@ I was a technical trainer in TCS ignite and we worked on side projects in Androi
 I have tried both scrum and kanban way of agile product development and I prefer agile over the waterfall, especially in mobile apps and web. I have used JIRA as a tool for product managenent.
 <br/><br/>
 **Engineering**
-<br/>- Mobile app development (Android, Flutter) <br/>- Web Development (J2EE, PHP, MVC) <br/>- Database - (MySQL : basic understanding of relational database, SQLITE) <br/>- IDE Tools : Eclipse (Early stage of Android), Netbeans (2011 J2EE), Android Studio ( Present for Android), Working knowledge of vi editor <br/>- Tools: Git, Bugzilla, Jira , Trello, Invision, Zeplin, Freedcamp etc. <br/> - Basics of Adobe Photoshop <br/> - Analytics: G.A and Firebase
+<br/>- Mobile app development (Android, Flutter) <br/>- Web Development (J2EE, PHP, MVC) <br/>- Database - (MySQL : basic understanding of relational database, SQLITE) <br/>- IDE Tools : Eclipse (Early stage of Android), Netbeans (2011 J2EE), Android Studio ( Present for Android), Working knowledge of vi editor <br/>- Tools: Git, Bugzilla, Jira , Trello, Invision, Zeplin, Freedcamp etc. <br/> - Basics of Adobe Photoshop <br/> - Analytics: G.A and Firebase <br/> - We used Jenkins for CI/CD (I know basics of what it is, never got chance to work directly on it)
 
 {: .box-plain .link-no-color}
 #### Anything else? *[Email me](mailto:{{site.personal_email}})*
