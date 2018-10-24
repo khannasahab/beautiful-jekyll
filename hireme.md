@@ -4,11 +4,11 @@ title: Hire Me
 ---
 
 {: .box-plain}
-Gaurav Khanna <br/> Product Engineer <br/> khannasahab.gaurav@gmail.com
+Gaurav Khanna <br/> Mobile App Engineer <br/> khannasahab.gaurav@gmail.com
 
 
 {: .box-plain}
-**About me**<br/>Started my Professional journey in 2010 and fell in love with internet/software there after. I believe in user centric teams and consider myself a [Product Engineer](/blogs/software/what-is-product-engineer/). I like reading and writing tech blogs.
+**About me**<br/>Started my Professional journey in 2010 and fell in love with internet/software there after. I believe in user centric teams and push for [Product Engineering](/blogs/software/what-is-product-engineer/). I like reading and writing tech blogs.
 
 {: .box-plain}
 **Core Strength**<br/> Tech: OOPS, Android & Java, Product Management, git<br/>Product: I have a good eye for UX and I love to shape ideas into reality. I believe in data driven development and user centric teams
