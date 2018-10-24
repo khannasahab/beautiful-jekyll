@@ -16,27 +16,27 @@ Gaurav Khanna <br/> Product Engineer <br/> khannasahab.gaurav@gmail.com
 {: .box-bordered}
 **Why am I a good candidate?**
 <br/><br/>
- I have always been an Engineer with users in the center of all solutions I have architected or programmed. I love to see ideas shaping into a real product. I believe not every idea you have will form into feature and ideas come from all the places. I believe in Data-driven development and user-centric teams.
+ I have always been an Engineer with users in the center of all solutions I have architected or programmed. I love to see ideas shaping into a real product. I believe in Data-driven development and user-centric teams.
 <br/>
 I am good at having a sound communication with designers and developers which is a crucial aspect of any software development.
 <br/><br/>
 **Track Record**
 <br/><br/>
-I have tried 3 start-ups of my own. 2 of them were app based. One was selected in FB start-up with 5k downloads and other is an ongoing app with more than 110k+ downloads and decent revenue. I am responsible for developing Android app, product management, prioritizing ideas, engaging users, user-review replies and managing freelancer team I have. In short, a lean startup. I consider tech as a tool to achieve your vision and we should be flexible in using another tool if it is more appropriate.
+I have tried 3 start-ups of my own. 2 of them were app based. One was selected in FB start-up with 5k downloads and other is a side project I did with more than 110k+ downloads. I was responsible for developing Android app, product management, prioritizing ideas, engaging users, user-review replies and managing freelancer team I had. In short, a lean startup.
 
 
 {: .box-bordered}
 **Education**
 <br/><br/>
-I did Masters in Computers Science from Kurukshetra University and Bachelor in computer applications from Kurukshetra University.
+Masters in Computers Science from Kurukshetra University and Bachelor in computer applications from Kurukshetra University.
 
 ### Below are couple of projects I worked in.
 
 {: .box-bordered}
-***HueHello (Founder)***
+***SmartLightApps (Side Project)***
 *July 2018 - Present*
 <br/><br/>
-This is one of the side projects I did worth showing. A smart app for smart lights with more than 100k downloads and 4.5 rating. For more details check [*HueHello*](https://huehello.com). I am responsible for product roadmap, User interaction, Android development and managing freelancers. Basically A lean startup.
+I really like IOT and lights in general. Worked on a side project to combine all smart lights under one umbrella and thought to develop apps for all. We started with Philips hue because of familiarity with the system. Our Philips app is named HueHello and it got 120k downloads till date. We aim to develop apps for all smart lights using same core.<br/><br/> [Website: smartlightapps.com](http://smartlightapps.com)
 
 {: .box-bordered}
 **Philips Hue**
@@ -61,7 +61,7 @@ It is one of the startup I founded. One liner product was: setting other people 
 **hike messenger**
 *Feb 2014 - Sept 2015*
 <br/><br/>
-Number 1 messenger among Indian youth with more than 50 million downloads. I was part of early team and worked on various core technical areas of hike. Architected a plugin based model we called *Platform* where you could run small snippets of web code on the fly.
+Number 1 messenger among Indian youth with more than 50 million downloads. I was a part of the early team and worked on various core technical areas of hike. Architected a plugin based model we called *Platform* where you could run small snippets of web code on the fly. Led a small team with data driven mindset.
 
 {: .box-bordered}
 **naukri.com**
