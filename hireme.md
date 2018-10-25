@@ -17,12 +17,9 @@ Gaurav Khanna <br/> Mobile App Engineer <br/> gaurav-khanna.in <br/> khannasahab
 **Why am I a good candidate?**
 <br/><br/>
  I have always been an Engineer with users in the center of all solutions I have architected or programmed. I love to see ideas shaping into a real product.
-<br/>
+<br/><br/>
 I am good at having a sound communication with designers and developers which is a crucial aspect of any software development.
-<br/><br/>
-**Track Record**
-<br/><br/>
-I have tried 3 start-ups of my own. 2 of them were app based. One was selected in FB start-up with 5k downloads and other is a side project I did with more than 110k+ downloads. I was responsible for developing Android app, product management, prioritizing ideas, engaging users, user-review replies and managing freelancer team I had. In short, a lean startup.
+
 
 
 {: .box-bordered}
