@@ -8,15 +8,15 @@ Gaurav Khanna <br/> Mobile App Engineer <br/> gaurav-khanna.in <br/> khannasahab
 
 
 {: .box-plain}
-**About me**<br/>Started my Professional journey in 2010 and fell in love with internet/software there after. I believe in user centric teams and Product Engineering. I like reading and writing tech blogs.
+**About me**<br/>Started my Professional journey in 2010 and fell in love with internet/software there after. I believe in user centric teams and Product Engineering. I like reading and writing tech blogs. I have experience with data driven development and I have been using it everywhere possible.
 
 {: .box-plain}
-**Core Strength**<br/> Tech: OOPS, Android & Java, Product Management, git<br/>Product: I have a good eye for UX and I love to shape ideas into reality. I believe in data driven development and user centric teams
+**Core Strength**<br/> Tech: OOPS, Android & Java, Product Management, git<br/>Product: I have a good eye for UX and I love to shape ideas into reality.
 
 {: .box-bordered}
 **Why am I a good candidate?**
 <br/><br/>
- I have always been an Engineer with users in the center of all solutions I have architected or programmed. I love to see ideas shaping into a real product. I believe in Data-driven development and user-centric teams.
+ I have always been an Engineer with users in the center of all solutions I have architected or programmed. I love to see ideas shaping into a real product.
 <br/>
 I am good at having a sound communication with designers and developers which is a crucial aspect of any software development.
 <br/><br/>
@@ -36,7 +36,7 @@ Masters in Computers Science from Kurukshetra University and Bachelor in compute
 ***SmartLightApps (Side Project)***
 *July 2018 - Present*
 <br/><br/>
-I really like IOT and lights in general. Worked on a side project to combine all smart lights under one umbrella and thought to develop apps for all. We started with Philips hue because of familiarity with the system. Our Philips app is named HueHello and it got 120k downloads till date. We aim to develop apps for all smart lights using same core.<br/><br/> [Website: smartlightapps.com](http://smartlightapps.com)
+I really like IOT and lights in general. Worked on a side project to combine all smart lights under one umbrella and thought to develop apps for all. We started with Philips hue because of familiarity with the system. Our Philips app is named HueHello and users are appreciating it. We aim to develop apps for all smart lights using same core.<br/><br/> [Website: smartlightapps.com](http://smartlightapps.com)
 
 {: .box-bordered}
 **Philips Hue**
