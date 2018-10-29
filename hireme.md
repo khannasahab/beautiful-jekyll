@@ -29,6 +29,11 @@ Masters in Computers Science from Kurukshetra University and Bachelor in compute
 
 ### Below are couple of projects I worked in.
 
+{: .box-bordered}
+***SmartLightApps (Side Project)***
+*July 2018 - Present*
+<br/><br/>
+I really like IOT and lights in general. Worked on a side project to combine all smart lights under one umbrella and thought to develop one app for all. We started with Philips hue because of familiarity with the system. Our Philips app is named HueHello and users are appreciating it. We aim to develop apps for all smart lights using same core.<br/><br/> [Website: smartlightapps.com](http://smartlightapps.com)
 
 {: .box-bordered}
 **Philips Hue**
