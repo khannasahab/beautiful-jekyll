@@ -4,21 +4,19 @@ title: Hire Me
 ---
 
 {: .box-plain}
-Gaurav Khanna <br/> Mobile App Engineer <br/> gaurav-khanna.in <br/> khannasahab.gaurav@gmail.com
+Gaurav Khanna <br/> Android architect <br/> Data enthusiast , Product <br/> gaurav-khanna.in <br/> khannasahab.gaurav@gmail.com
 
 
 {: .box-plain}
-**About me**<br/>Started my Professional journey in 2010 and fell in love with internet/software there after. I believe in user centric teams and Product Engineering. I like reading and writing tech blogs. I have experience with data driven development and I have been using it everywhere possible.
+**About me**<br/>Started my Professional journey in 2010 and fell in love with internet/software there after. I believe in user centric teams and Product Engineering. I like reading and writing tech blogs. I have experience with data driven development and I have been using it everywhere possible.<br/><br/>
+ I have always been an Engineer with users in the center of all solutions I have architected or programmed. I love to see ideas shaping into a real product.
+<br/><br/>
+I possess good communication and presentaion skills which are crucial aspects of working in any team.
 
 {: .box-plain}
 **Core Strength**<br/> Tech: OOPS, Android & Java, Product Management, git<br/>Product: I have a good eye for UX and I love to shape ideas into reality.
 
-{: .box-bordered}
-**Why am I a good candidate?**
-<br/><br/>
- I have always been an Engineer with users in the center of all solutions I have architected or programmed. I love to see ideas shaping into a real product.
-<br/><br/>
-I am good at having a sound communication with designers and developers which is a crucial aspect of any software development.
+
 
 
 
@@ -30,10 +28,9 @@ Masters in Computers Science from Kurukshetra University and Bachelor in compute
 ### Below are couple of projects I worked in.
 
 {: .box-bordered}
-***SmartLightApps (Side Project)***
-*July 2018 - Present*
+***SmartLightApps (Hobby Project)***<br/> [Website: smartlightapps.com](http://smartlightapps.com)
 <br/><br/>
-I really like IOT and lights in general. Worked on a side project to combine all smart lights under one umbrella and thought to develop one app for all. We started with Philips hue because of familiarity with the system. Our Philips app is named HueHello and users are appreciating it. We aim to develop apps for all smart lights using same core.<br/><br/> [Website: smartlightapps.com](http://smartlightapps.com)
+I really like IOT and lights in general. Worked on a side project to combine all smart lights under one umbrella. We thought of blogging to make users familiar with smart light use cases and develop one app for all brands. We started with Philips hue because of familiarity with the system. Our Philips app is named HueHello and users are appreciating it. We aim to develop apps for all smart lights using same core.<br/>
 
 {: .box-bordered}
 **Philips Hue**
