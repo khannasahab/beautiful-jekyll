@@ -11,7 +11,7 @@ Gaurav Khanna <br/> Android architect <br/> Data enthusiast , Product <br/> gaur
 **About me**<br/>Started my Professional journey in 2010 and fell in love with internet/software there after. I believe in user centric teams and Product Engineering. I like reading and writing tech blogs. I have experience with data driven development and I have been using it everywhere possible.<br/><br/>
  I have always been an Engineer with users in the center of all solutions I have architected or programmed. I love to see ideas shaping into a real product.
 <br/><br/>
-I possess good communication and presentaion skills which are crucial aspects of working in any team. I hold **experience of leading a team and interviewing Android engineers**.<br/><br/>I usually worked with small companies and startups where testing code was not a first class citizen because of idea validation and MVP nature. I do have knowledge but not expertise **Junit and Espresso tests**. I am keen to learn.
+I possess good communication and presentaion skills which are crucial aspects of working in any team. I hold **experience of leading a team and interviewing Android engineers**.<br/><br/>I usually worked with small companies and startups where testing code was not a first class citizen because of idea validation and MVP nature. I do have knowledge but not expertise in **Junit and Espresso tests**. I am keen to learn.
 
 {: .box-plain}
 **Core Strength**<br/> Tech: OOPS, Android & Java, Product Management, git<br/>Product: I have a good eye for UX and I love to shape ideas into reality.
