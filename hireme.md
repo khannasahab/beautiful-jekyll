@@ -11,7 +11,7 @@ Gaurav Khanna <br/> Android architect <br/> Data enthusiast , Product <br/> gaur
 **About me**<br/>Started my Professional journey in 2010 and fell in love with internet/software there after. I believe in user centric teams and Product Engineering. I like reading and writing tech blogs. I have experience with data driven development and I have been using it everywhere possible.<br/><br/>
  I have always been an Engineer with users in the center of all solutions I have architected or programmed. I love to see ideas shaping into a real product.
 <br/><br/>
-I possess good communication and presentaion skills which are crucial aspects of working in any team. I hold **experience of leading a team and interviewing Android engineers**.
+I possess good communication and presentaion skills which are crucial aspects of working in any team. I hold **experience of leading a team and interviewing Android engineers**.<br/><br/>I usually worked with small companies and startups where testing code was not a first class citizen because of idea validation and MVP nature. I do have knowledge of **Junit and Espresso tests**. I am not an expert in same.
 
 {: .box-plain}
 **Core Strength**<br/> Tech: OOPS, Android & Java, Product Management, git<br/>Product: I have a good eye for UX and I love to shape ideas into reality.
@@ -70,12 +70,8 @@ I was a technical trainer in TCS ignite and we worked on side projects in Androi
 ### Experience
 
 {: .box-bordered}
-**Product**
-<br/>
-I have tried both scrum and kanban way of agile product development and I prefer agile over the waterfall, especially in mobile apps and web. I have used JIRA as a tool for product managenent.
-<br/><br/>
 **Engineering**
-<br/>- Mobile app development (Android, Flutter) <br/>- Web Development (J2EE, PHP, MVC) <br/>- Database - (MySQL : basic understanding of relational database, SQLITE) <br/>- IDE Tools : Eclipse (Early stage of Android), Netbeans (2011 J2EE), Android Studio ( Present for Android), Working knowledge of vi editor <br/>- Tools: Git, Bugzilla, Jira , Trello, Invision, Zeplin, Freedcamp etc. <br/> - Basics of Adobe Photoshop <br/> - Analytics: G.A and Firebase <br/> - We used Jenkins for CI/CD (I know basics of what it is, never got chance to work directly on it)
+<br/>- Mobile app development (Android, Flutter) <br/>- Junit and Espresso tests<br/>- Web Development (J2EE, PHP, MVC) <br/>- Database - (MySQL : basic understanding of relational database, SQLITE) <br/>- IDE Tools : Eclipse (Early stage of Android), Netbeans (2011 J2EE), Android Studio ( Present for Android), Working knowledge of vi editor <br/>- Tools: Git, Bugzilla, Jira , Trello, Invision, Zeplin, Freedcamp etc. <br/> - Basics of Adobe Photoshop <br/> - Analytics: G.A and Firebase <br/> - We used Jenkins for CI/CD (I know basics of what it is, never got chance to work directly on it)
 
 {: .box-plain .link-no-color}
 #### Anything else? *[Email me](mailto:{{site.personal_email}})*
