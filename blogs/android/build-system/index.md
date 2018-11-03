@@ -29,6 +29,12 @@ description="How many apps can be in one Android project and few tips and tricks
 url="/blogs/android/build-system/chapter-2/"
 %}
 
+{% include post_card.html 	
+title="Part 3" 
+description="A beginner Guide to CI/CD. Why do we need this if we have gradle and what is it in plain english ..."
+url="/blogs/android/build-system/chapter-3/"
+%}
+
 
 {% include subscribe_email.html %}
 
