@@ -24,7 +24,7 @@ Masters in Computers Science from Kurukshetra University and Bachelor in compute
 **Philips Hue (Android Architect & Engineer)**
 *June 2017 - July 2018*
 <br/><br/>
-One of its kind and market leader in smart lights: philips hue. Part of the android team with core responsibility of architecting and developing Hue app.<br/><br/>**Responsibilities**<br/>- Architecting & Refactoring complete app (Earlier it was outsourced by Philips)<br/>- JUnit Test wherever applicable<br/>- Presented Hue app to many stakeholders inside the company<br/>- Pushed for modular architecture, Material design<br/>- Participating in learning sessions and presenting<br>- Introduced modularisation concept in app<br/><br/>It is way more complex app than it appears from outlook due to underlying protocol involved (*Zigbee*).
+One of its kind and market leader in smart lights: philips hue. Part of the android team with core responsibility of architecting and developing Hue app.<br/><br/>**Responsibilities**<br/>- Architecting & Refactoring complete app (Earlier it was outsourced by Philips)<br/>- JUnit Test wherever applicable<br/>- Presented Hue app to many stakeholders inside the company<br/>- Pushed for modular architecture, Material design<br/>- Participating in learning sessions and presenting<br>- Introduced modularisation concept in app<br/><br/>It is way more complex app than it appears from outlook because of underlying protocol involved (*Zigbee*).
 
 
 {: .box-bordered}
