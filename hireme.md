@@ -65,4 +65,4 @@ I was a technical trainer in TCS ignite and we worked on side projects in Androi
 I really like IOT and lights in general. Worked on a side project to combine all smart lights under one umbrella. Thought of blogging to make users familiar with smart light use cases and develop one app for all brands. Started with Philips hue because of familiarity with the system. Philips app is named HueHello and users are appreciating it. It has got 120k+ downloads till date. <br/><br/>**Responsibilities** <br/>- Thinking utility and fancy features <br>- Doing POC and proving with data signals <br/>- Coordinating with freelancers on demand <br/>- Architecting Android app (I use IPC and plugin model) <br/>- Managing release cycle and responding to user queries<br/>- In short, start-to-end exposure of App lifecycle from idea to real product
 
 {: .box-plain .link-no-color}
-I sometimes write about Android here: https://gaurav-khanna.in/blogs<br/><br/> Anything else? *[Email me](mailto:{{site.personal_email}})*
+My Android blog: https://gaurav-khanna.in/blogs<br/><br/> Anything else? *[Email me](mailto:{{site.personal_email}})*
