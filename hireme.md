@@ -9,7 +9,7 @@ Gaurav Khanna <br/> Android architect, Data enthusiast <br/> gaurav-khanna.in <b
 
 {: .box-bordered}
 **Skill Set**
-<br/>- *Core Strength*: OOPS, Android & Java<br/>- Mobile app development (Android, Flutter) <br/>- Good hold on git<br/>- Junit and Espresso tests (Intermediate)  <br/> - Jenkins for CI/CD (Beginner)<br/>- Database - (MySQL, SQLITE) <br/>- IDE : Android Studio, Eclipse & Netbeans(familiar), Working knowledge of vi editor <br/>- Tools : Git, Bugzilla, Jira , Trello, Invision, Zeplin, Freedcamp etc. <br/> - Analytics: G.A and Firebase<br/>- Basics of Web Development (Jekyll, wordpress, PHP, MVC)
+<br/>- *Core Strength*: OOPS, Android & Java<br/>- Mobile app development (Android, Flutter) <br/>- Good hold on git<br/>- Junit and Espresso tests   <br/> - Jenkins for CI/CD <br/>- Database - (MySQL, SQLITE) <br/>- IDE : Android Studio, Eclipse & Netbeans(familiar), Working knowledge of vi editor <br/>- Tools : Git, Bugzilla, Jira , Trello, Invision, Zeplin, Freedcamp etc. <br/> - Analytics: G.A and Firebase<br/>- Basics of Web Development (Jekyll, wordpress, PHP, MVC)
 
 {: .box-bordered}
 **Education**
