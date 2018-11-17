@@ -1099,6 +1099,10 @@ input.md-input:focus ~ .md-highlight {
   background-image: url(/img/android-wear/cover.webp);
 }
 
+.md-card_image_mastering_service {
+  background-image: url(/img/mastering-service/cover.webp);
+}
+
 @keyframes inputHighlighter {
   from { background:#404040; }
   to  { width:0; background:transparent; }
