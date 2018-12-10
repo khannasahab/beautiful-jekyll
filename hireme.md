@@ -43,7 +43,7 @@ Number 1 messenger among Indian youth with more than 50 million downloads. I was
 India's number 1 job portal, I worked here in setting up Android team and couple of months in backend.<br/><br/>**Responsibilities** <br/>- Setting up Android team and hiring new devs <br/>- Implementing Android features and advising product and design on how to think mobile as we were web only before <br/>- Spent couple of months in backend doing perl, php in search module
 
 {: .box-bordered}
-**tcs ignite (Android Engineer)**
+**tcs ignite (Android Trainer & Engineer)**
 <br/><br/>
 I was a technical trainer in TCS ignite and we worked on side projects in Android to train new employees and to facilitate R&D.
 
