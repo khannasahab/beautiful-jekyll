@@ -51,7 +51,6 @@ I was a technical trainer in TCS ignite and we worked on side projects in Androi
 
 {: .box-bordered}
 **Watstime (Founder)**
-*Sept 2015 - June 2016*
 <br/><br/>
 It is one of the startup I founded. One liner product was: setting other people alarm and social alarms. Though it never became a startup and died as an app. **Responsibilities** <br/>- Running it as lean startup <br/>- Developing End to End Android app including release cycle and testing <br/>- Hiring Interns and interviewing Android engineers <br/>- I wrote complete Backend API module using Symfony Php and AWS <br/>- Managing cloud with Google help<br/>- Coordinating with freelancers<br/><br/>It got accepted in fb startup program and received total of 5k downloads in first 5 months. I had to shut down because of financial reasons.
 
