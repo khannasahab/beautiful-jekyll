@@ -58,7 +58,11 @@ actionable. When a user touches an actionable view, the view should show Ripple
 effect. By default, almost all clickable views show this effect but sometimes
 you need to customize UI and all of sudden, ripple is gone. Here is the magic
 keyword to get it back.
-
+```
+android:background="?android:attr/selectableItemBackground"
+OR
+android:foreground="?android:attr/selectableItemBackground"
+```
 
     If your View does not have a background, you can use the background variant. Sometimes, you need a custom background and creating Ripple seems a heavy task. You can use the foreground variant.
 
@@ -71,13 +75,19 @@ system as much as possible. Always leverage platform offerings. Here are some
 quick keywords to show system components with custom theme colors with default
 behavior.
 
-    Button with custom colour
-    -----
-    Radio Button with custom colour
-    -----
-    Images & Icons
-    -----
-    ProgressBar with custom colour
+```
+Button with custom colour
+android:backgroundTint="@color/red"
+-----
+Radio Button with custom colour
+android:buttonTint="@color/red"
+-----
+Images & Icons
+android:drawableTint="@color/red"
+-----
+ProgressBar with custom colour
+android:progressTint="@color/red"
+```
 
 The advantage of using these properties is you get your themed look and feel
 with system behaviour and UI with states (Ripple, Shadow etc).
@@ -91,6 +101,9 @@ your requirements.
 The magic keyword to show a subtle shadow below components like cardview is to
 use elevation property.
 
+```
+android:elevation="1dp"
+```
 
 > Tip: Sometimes elevation property has no effect when it is the last View in your
 > hierarchy. You might need to add a dummy last view.
@@ -119,13 +132,13 @@ And yes, you can see the preview of your XML using parentTag property. Just
 change it to any ViewGroup and you will see a different outcome in the preview.
 It is plain good.
 
-    <
-     xmlns:android="http://schemas.android.com/apk/res/android"
-    xmlns:tools="http://schemas.android.com/tools"
-        
-    ="android.widget.LinearLayout"
-        android:layout_width="match_parent"
-        android:layout_height="match_parent">
+```
+   <merge xmlns:android="http://schemas.android.com/apk/res/android"
+xmlns:tools="http://schemas.android.com/tools"
+    tools:parentTag="android.widget.LinearLayout"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+```
 
 > Question: Suppose you have to show same UI in two forms Card form and without
 > card form, how will you create those 2XML without merge tag?
@@ -206,9 +219,9 @@ tricks. Following are the ways you can animate with very little code.
 
 With one line you can facilitate Activity transition.
 
-    overridePendingTransition(android.R.anim.
-    , android.R.anim.
-    );
+```
+overridePendingTransition(android.R.anim.fade_in, android.R.anim.fade_out);
+```
 
 #### 2. Animate Layout Changes
 
@@ -216,6 +229,9 @@ This is by far my favorite trick in Android. Almost all ViewGroup respect this
 attribute. With this one line, you can improve your UX a lot. Here is the magic
 line:
 
+```
+android:animateLayoutChanges="true"
+```
 
 This is called LayoutTransition and whenever there is any change in the View
 hierarchy, it will be animated. Common operations like Add View, Remove view are
@@ -223,9 +239,10 @@ handled with default animations.
 
 Yes, there is Java equivalent as well.
 
-    TransitionManager.
-    (
-    );
+```
+TransitionManager.beginDelayedTransition(yourViewGroup);
+```
+
 
 After this line, all changes made to children of this ViewGroup will be
 animated. You can combine multiple changes to view hierarchy with this variant.
@@ -241,24 +258,24 @@ width and height by 20% whenever the user clicks. This can easily be done with
 XML and no code is required.
 
 You can use selectors. Create a file “animate” in the xml folder.
-
-    <selector xmlns:android="http://schemas.android.com/apk/res/android">
-        <!-- the pressed state; increase x and y size to 150% -->
-        <item 
-    >
-     <objectAnimator android:propertyName="scaleX"
-                    android:duration="@android:integer/config_shortAnimTime"
-                    android:valueTo="1.5"
-                    android:valueType="floatType"/>
-    </item>
-    ... Similarly for other states_
-    </selector>
+```
+<selector xmlns:android="http://schemas.android.com/apk/res/android">
+    <!-- the pressed state; increase x and y size to 150% -->
+    <item android:state_pressed="true">
+ <objectAnimator android:propertyName="scaleX"
+                android:duration="@android:integer/config_shortAnimTime"
+                android:valueTo="1.5"
+                android:valueType="floatType"/>
+</item>
+... Similarly for other states_
+</selector>
+```
 
 You can set this to any View in XML
-
-    <Button 
-    ="@xml/animate"
-    ....
+```
+<Button android:stateListAnimator="@xml/animate"
+....
+```
 
 #### 4. KeyFrame and PropertyValueHolder for complex animations
 
@@ -283,35 +300,33 @@ heart size increased by some fraction<br> Time 1, heart size is back to normal
 
 Here are 4 keyframes expressing what we described.
 
-    Keyframe k0 = Keyframe.
-    (0f, 1f);
-    Keyframe k1 = Keyframe.
-    (0.275f, decreaseRatio);
-    Keyframe k2 = Keyframe.
-    (0.69f, increaseRatio);
-    Keyframe k3 = Keyframe.
-    (1f, 1f);
+```
+Keyframe k0 = Keyframe.ofFloat(0f, 1f);
+Keyframe k1 = Keyframe.ofFloat(0.275f, decreaseRatio);
+Keyframe k2 = Keyframe.ofFloat(0.69f, increaseRatio);
+Keyframe k3 = Keyframe.ofFloat(1f, 1f);
+```
 
 Now we have these keyframes, we have to apply them to View Property. We can use
 PropertyValueHolder.
 
-    PropertyValuesHolder scaleX = PropertyValuesHolder.
-    (
-    , k0, k1, k2, k3);
+```
+    PropertyValuesHolder scaleX = PropertyValuesHolder.ofKeyframe("scaleX", k0, k1, k2, k3);
+```
 
 It says, to whichever view this is applied, change the x as per these keyframes.
 
-    PropertyValuesHolder scaleY = PropertyValuesHolder.
-    (
-    , k0, k1, k2, k3);
-
+```
+PropertyValuesHolder scaleY = PropertyValuesHolder.ofKeyframe("scaleY", k0, k1, k2, k3);
+```
 Same for Y.
 
 Now, We can create ObjectAnimator using value holder.
 
-    ObjectAnimator beat = ObjectAnimator.
-    (viewToAnimate, scaleX, scaleY);
-    beat.start();
+```
+ObjectAnimator beat = ObjectAnimator.ofPropertyValuesHolder(viewToAnimate, scaleX, scaleY);
+beat.start();
+```
 
 It will return an animator which will change the object (here view) properties
 as per the key frames stored in these value holders.
