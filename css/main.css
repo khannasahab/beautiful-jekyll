@@ -1103,6 +1103,10 @@ input.md-input:focus ~ .md-highlight {
   background-image: url(/img/mastering-service/cover.webp);
 }
 
+.md-card_image_mastering_ui_ux {
+  background-image: url(/img/mastering-ui-ux/tips-tricks.jpeg);
+}
+
 @keyframes inputHighlighter {
   from { background:#404040; }
   to  { width:0; background:transparent; }
