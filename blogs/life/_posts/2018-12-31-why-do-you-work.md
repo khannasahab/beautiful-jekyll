@@ -62,7 +62,7 @@ All adventure sports, a lot of reading, some social work and a really long drive
 ### If tomorrow you wake up with $500,000 in bank, what would you do?
 I will leave you thinking!
 
->It is the last day of the year 2018. Now try to ask these questions to yourself. Be honest. Why do you work? What inspires you beyond money? What are you doing to change your life for bettet? Spend some quality time and be a better version of yourself in 2019.
+>It is the last day of the year 2018. Now try to ask these questions to yourself. Be honest. Why do you work? What inspires you beyond money? What are you doing to change your life for better? Spend some quality time and be a better version of yourself in 2019.
 
 
 
