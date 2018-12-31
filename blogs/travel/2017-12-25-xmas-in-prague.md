@@ -33,3 +33,5 @@ Here are a couple of photos:
 
 If you are confused and planning whether to visit Prague or not, let's say it will not disappoint you.
 
+[Check All Trip Blogs here](/blogs/travel/)
+
