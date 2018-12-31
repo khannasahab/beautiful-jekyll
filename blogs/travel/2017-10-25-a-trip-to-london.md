@@ -24,4 +24,8 @@ Here are a couple of photos:
 
 ![](/img/travel/trip-london/photo_3.jpg)
 
+## Some unexpected Halloween party
+
+![](/img/travel/trip-london/photo_4.jpg)
+
 It was a short trip and overall the impression of city is really good. Hope to visit soon again.
