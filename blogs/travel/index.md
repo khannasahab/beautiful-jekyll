@@ -8,7 +8,7 @@ I love traveling. Who does not? This is not a professional travel blog. It is a 
 
 <ul class="grid-two">
 
-{% include material_card.html title="Road trip to Munich" description="When you do not keep expectations, you are surprised to see ..."
+{% include material_card.html title="Road trip to Dunkirk" description="When you do not keep expectations, you are surprised to see ..."
  url="/blogs/travel/2018-05-10-road-trip-dunkirk/"
 imgcss="md-card_image_road_trip_dunkirk"
  %}
