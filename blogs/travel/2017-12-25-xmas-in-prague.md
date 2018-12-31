@@ -21,8 +21,12 @@ Here are a couple of photos:
 
 ![](/img/travel/prague-xmas-17/photo_3.jpg)
 
+![](/img/travel/prague-xmas-17/photo_6.jpg)
+
 
 ![](/img/travel/prague-xmas-17/photo_5.jpg)
+
+
 
 ## Photo of the Trip
 ![](/img/travel/prague-xmas-17/photo_4.jpg)
