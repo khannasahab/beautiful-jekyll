@@ -36,7 +36,7 @@ Software Engineer. Though I would like not to restrict myself with this title.
 A sense of spending quality time. Pride of creating something. Fortunately, my Job allows me to feel this time to time.
 
 ### How much time you allot to work? Do you see the scope of improvement?
-60-70% of the awake time. Yes, I think ideally we should spend ~40% of time working and rest learning, maintaining hobbies, social and personal.
+60-70% of the awake time. Yes, I think in ideal world we should spend ~40% of time working and rest learning, maintaining hobbies, social and personal.
 
 ### What is the amount of money you want in the bank so you can work what you want NOT what you are doing?
 I would be in Software itself but I would like to experiment a lot of ideas. The sum would be $500,000
@@ -47,8 +47,11 @@ I do not have such intentions on large scale. I believe if your work changes eve
 ### Are you working OR passing time at Job?
 It is a mixture of both. We all have good and bad days.
 
+### Are you passionate about your work?
+Yes I am. Software is one of rare industry which touches many people life in a positive way. Healthtech and Fintech are few examples.
+
 ### if given a chance, what would you be doing other than your work?
-Some business with social aspect embedded in its genes
+Some business with social aspect embedded in its genes. Maybe software maybe not.
 
 ### Do you see social problems along with your daily life? What do you do?
 I see a lot of issues, poverty is one of them. Nothing much. 
