@@ -4,7 +4,7 @@ title: Travel
 subtitle: A tourist on this planet
 ---
 
-I love traveling. Who does not? This is not a professional travel blog. It is a place for me to relect back and sip coffee in old age. I will try to share some tips and tricks whenever possible.
+I love traveling. Who does not? This is not a professional travel blog. It is a place for me to reflect back, smile and sip coffee in old age. I will try to share some tips and tricks whenever possible.
 
 <ul class="grid-two">
 
