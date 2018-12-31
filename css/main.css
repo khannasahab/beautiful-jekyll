@@ -1107,6 +1107,18 @@ input.md-input:focus ~ .md-highlight {
   background-image: url(/img/mastering-ui-ux/tips-tricks.jpeg);
 }
 
+.md-card_image_trip_london {
+  background-image: url(/img/travel/trip-london/photo_1.jpg);
+}
+
+.md-card_image_xmas_2017 {
+  background-image: url(/img/travel/prague-xmas-17/map.png);
+}
+
+.md-card_image_road_trip_dunkirk {
+  background-image: url(/img/travel/dunkirk-les-loges/photo_1.jpg);
+}
+
 @keyframes inputHighlighter {
   from { background:#404040; }
   to  { width:0; background:transparent; }
