@@ -20,10 +20,16 @@ imgcss="md-card_image_xmas_2017"
 
 </ul>
 
-<ul class="grid-one">
+<ul class="grid-two">
 
-{% include material_card.html title="Road trip to Dunkirk" description="When you do not keep expectations, you are surprised to see ..."
+{% include material_card.html title="Road trip to Munich" description="When you do not keep expectations, you are surprised to see ..."
  url="/blogs/travel/2018-05-10-road-trip-dunkirk/"
 imgcss="md-card_image_road_trip_dunkirk"
+ %}
+
+
+{% include material_card.html title="Xmas 2017 in Prague" description="If you love cars, BMW museum is one of the best place to visit..."
+ url="/blogs/travel/2018-03-31-road-trip-munich-salzburg/"
+imgcss="md-card_image_road_trip_munich"
  %}
 </ul>

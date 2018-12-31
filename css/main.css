@@ -1119,6 +1119,10 @@ input.md-input:focus ~ .md-highlight {
   background-image: url(/img/travel/dunkirk-les-loges/photo_1.jpg);
 }
 
+.md-card_image_road_trip_munich {
+  background-image: url(/img/travel/munich_salzburg/photo_4.jpg);
+}
+
 @keyframes inputHighlighter {
   from { background:#404040; }
   to  { width:0; background:transparent; }
