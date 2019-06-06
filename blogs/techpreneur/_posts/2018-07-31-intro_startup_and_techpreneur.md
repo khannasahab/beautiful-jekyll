@@ -36,11 +36,10 @@ In 8 years (2010-2018) I have tried 3 tech products. First 2 failed with a lot o
 - **Hypothesis**: I think a good software for smart lights is in very much need and people who spend so much for hardware will happily pay the little amount if you add value
 - **Strength**: Technology (We are developing a plugin based architecture)
 - **Money Transaction**: Yes
-- **State**: Ongoing
+- **State**: Sold (Acquired by a mobile app holding company)
 - **Users**: Users are using it and appreciating it
 - **Why it may succeed**: Money transactions from a very early stage and tech strength with a good vision should help
 - **Learning**: Consumers know what they want. Listen to their pain points and solve in the way you believe it is better. Do not focus on faster horses, build a car if you can BUT do not build if it is not needed. Have a vision and do not deviate from vision. Do not get attached to the path to reach your vision. Be flexible and mold yourself as time demands. Prioritization is they key. Remember, Not everything you can; you should.
-- **Future Plan**: Vision to become the #1 mobile app for all smart lights
 
 
 ### Watstime
