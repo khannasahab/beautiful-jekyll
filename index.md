@@ -27,9 +27,9 @@ use-site-title: true
 **Featured Article**
 
 {% include post_card.html 	
-subtitle="Mastering Android themes" 
-description="In this series you will learn about Android styling and themes. This post was published in Android weekly and it is well accepted on our Medium page with aprx 3k upvotes ..."
-url="/blogs/android/mastering-android-themes/"
+subtitle="Learning from the Startup I sold" 
+description="A philosophical article of technical learning. How to approach launching a tech product (mainly an app). There is no such joy as creating something and seeing people ..."
+url="/blogs/techpreneur/startup/how-i-sold-my-first-android-app-startup/"
 %}
 
 
