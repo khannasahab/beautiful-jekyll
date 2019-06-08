@@ -33,6 +33,7 @@ navbar-links:
   Blog:
    - Android: "blogs"
    - Software Eng: "blogs/software"
+   - Startup: "blogs/techpreneur"
   Training: "training"
   Others:
     - Life Blog: "blogs/life"
