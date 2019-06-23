@@ -47,4 +47,12 @@ Now you can install nvm with
 `curl -o- https://raw.githubusercontent.com/nvm-sh/nvm/v0.34.0/install.sh | bash`
 
 
+> NOTE: Run nvm install 12 (version of node) followed by npx OR npm command
+
+Handy commands:
+
+**npx create-new-app `app_name`**
+
+**npm start**
+
 Hope, it helps someone.
