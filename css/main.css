@@ -977,7 +977,7 @@ input.md-input:focus ~ .md-highlight {
   display: block;
   width: 100%;
 }
- 
+
 .grid-one {
     padding: 0;
 }
@@ -1123,8 +1123,12 @@ input.md-input:focus ~ .md-highlight {
   background-image: url(/img/travel/munich_salzburg/photo_4.jpg);
 }
 
+.md-card_image_all_about_bundle {
+  background-image: url(/img/all-about-bundle.jpeg);
+}
+
+
 @keyframes inputHighlighter {
   from { background:#404040; }
   to  { width:0; background:transparent; }
 }
-
