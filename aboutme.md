@@ -8,14 +8,14 @@ Hi there, My name is Gaurav Khanna. I am passionate about a few things in life a
 
 ### Professional life
 
-- Android Engineer - I develop apps and I love it
-- Product Engineer - Startups + Create meaningful stuff
+- Android & BackEnd Engineer - I develop apps and I love it, can manage backend 
+- Product Engineer - Startups, Discussions around ideas and Create meaningful stuff
 - User Experience Verifier - I believe I have  a good eye for user experience
 - Trainer - Did I mention I was a teacher/trainer once and I like teaching
 - DDD - 'Data driven development' We trust in God, rest everyone bring data
 - Tech enthusiast - from gadgets to software, whatever leads to automation. Now you know what sort of presents I like ;)
 - Web - I understand basics and can do POC. Have tried backend development and maintained AWS for one of my startup. Maintaining this blog myself.
-- StartUp - Worked in couple of startups and tried 2 of my own.
+- StartUp - Worked in couple of startups and tried 2 of my own. 1 failed with learnings, 1 sold with learnings.
 
 ### Personal life
 
@@ -35,4 +35,6 @@ Hi there, My name is Gaurav Khanna. I am passionate about a few things in life a
 - **I am an Engineer**
 
 
-What else? Give me a bu*zz* OR drop an email.
+**Anything else else? Drop an [email](mailto:khannasahab.gaurav@gmail.com)**
+**OR**
+{% include calendly.html %}

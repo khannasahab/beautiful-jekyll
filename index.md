@@ -22,7 +22,7 @@ use-site-title: true
 #### ⏳ &nbsp;[Wanna know about my startup(s)?](/blogs/techpreneur/startup/intro_startup_and_techpreneur/)
 
 {: .box-bordered .link-no-color}
-#### 👉 &nbsp;Wanna hire me? [Resume](/hireme), [Cover Letter](/cover-letter)
+#### 👉 &nbsp;More about me 👉 [Resume](/hireme), [Cover Letter](/cover-letter)
 
 **Featured Article**
 

@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Hire Me
+title: Resume
 ---
 
 {: .box-plain}
@@ -55,9 +55,9 @@ I was a technical trainer in TCS ignite and we worked on side projects in Androi
 It is one of the startup I founded. One liner product was: setting other people alarm and social alarms. Though it never became a startup and died as an app. **Responsibilities** <br/>- Running it as lean startup <br/>- Developing End to End Android app including release cycle and testing <br/>- Hiring Interns and interviewing Android engineers <br/>- I wrote complete Backend API module using Symfony Php and AWS <br/>- Managing cloud with Google help<br/>- Coordinating with freelancers<br/><br/>It got accepted in fb startup program and received total of 5k downloads in first 5 months. I had to shut down because of financial reasons.
 
 {: .box-bordered}
-***SmartLightApps***<br/> https://smartlightapps.com
+***SmartLightApps (Founder)- Sold***<br/> https://smartlightapps.com
 <br/><br/>
-I really like IOT and lights in general. Worked on a side project to combine all smart lights under one umbrella. Thought of blogging to make users familiar with smart light use cases and develop one app for all brands. Started with Philips hue because of familiarity with the system. Philips app is named HueHello and users are appreciating it. It has got 120k+ downloads till date. <br/><br/>**Responsibilities** <br/>- Thinking utility and fancy features <br>- Doing POC and proving with data signals <br/>- Coordinating with freelancers on demand <br/>- Architecting Android app (I use IPC and plugin model) <br/>- Managing release cycle and responding to user queries<br/>- In short, start-to-end exposure of App lifecycle from idea to real product
+I really like IOT and lights in general. Worked on a side project to combine all smart lights under one umbrella. Thought of blogging to make users familiar with smart light use cases and develop one app for all brands. Started with Philips hue because of familiarity with the system. Philips app is named HueHello and users are appreciating it. It has got 120k+ downloads till date. <br/><br/>**Responsibilities** <br/>- Thinking utility and fancy features <br>- Doing POC and proving with data signals <br/>- Coordinating with freelancers on demand <br/>- Architecting Android app (I use IPC and plugin model) <br/>- Managing release cycle and responding to user queries<br/>- In short, start-to-end exposure of App lifecycle from idea to real product<br/><br/>**The tech got acquired in May, 2019**
 
 {: .box-plain .link-no-color}
 My Android blog: https://gaurav-khanna.in/blogs<br/><br/> Anything else? *[Email me](mailto:{{site.personal_email}})*
