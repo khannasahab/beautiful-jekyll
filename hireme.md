@@ -9,12 +9,17 @@ Gaurav Khanna <br/> All Android,Product Engineer, & Data enthusiast <br/> gaurav
 
 {: .box-bordered}
 **Skill Set**
-<br/>- *Core Strength*: OOPS, Android & Java<br/>- Mobile app development (Android SDK, Familiar with Flutter, Cordova) <br/>- Good hold on git<br/>- Junit and Espresso tests, Mockito   <br/> - Dependency Injection (Dagger) <br/> - Jenkins for CI/CD <br/>- Database - (MySQL, SQLITE) <br/>- IDE : Android Studio, Eclipse & Netbeans(familiar), Working knowledge of vi editor <br/>- Tools : Git, Bugzilla, Jira , Trello, Invision, Zeplin, Freedcamp etc. <br/> - Analytics: G.A and Firebase<br/>- Basics of Web Development (Jekyll, wordpress, PHP, MVC)
+<br/>- *Core Strength*: OOPS, Android & Java<br/>- Mobile app development (Android SDK, Familiar with Flutter, Cordova) <br/>- Good hold on git<br/><br/><br/>**Bits n Bytes**<br/>- Junit and Espresso tests, Mockito   <br/> - Dependency Injection (Dagger) <br/> - Jenkins for CI/CD <br/>- Database - (MySQL, SQLITE) <br/>- Tools : Git, Bugzilla, Jira , Trello, Invision, Zeplin, Freedcamp etc. <br/> - Analytics: G.A and Firebase<br/>- Basics of Web Development (Jekyll, wordpress, PHP, MVC)
 
 {: .box-bordered}
 **Education**
 <br/><br/>
 Masters in Computers Science from Kurukshetra University and Bachelor in computer applications from Kurukshetra University.
+
+{: .box-bordered}
+**Countries**
+<br/><br/>
+I worked in India, The Netherlands and United Kingdom.
 
 
 ### Projects & Experience
@@ -58,6 +63,11 @@ It is one of the startup I founded. One liner product was: setting other people 
 ***SmartLightApps (Founder)- Sold***<br/> https://smartlightapps.com
 <br/><br/>
 I really like IOT and lights in general. Worked on a side project to combine all smart lights under one umbrella. Thought of blogging to make users familiar with smart light use cases and develop one app for all brands. Started with Philips hue because of familiarity with the system. Philips app is named HueHello and users are appreciating it. It has got 120k+ downloads till date. <br/><br/>**Responsibilities** <br/>- Thinking utility and fancy features <br>- Doing POC and proving with data signals <br/>- Coordinating with freelancers on demand <br/>- Architecting Android app (I use IPC and plugin model) <br/>- Managing release cycle and responding to user queries<br/>- In short, start-to-end exposure of App lifecycle from idea to real product<br/><br/>**The tech got acquired in May, 2019**
+
+{: .box-bordered}
+***LinkBoard (Hustle)***<br/> https://linkboard.in
+<br/><br/>
+Hustling on a social content platform. Details coming soon.
 
 {: .box-plain .link-no-color}
 My Android blog: https://gaurav-khanna.in/blogs<br/><br/> Anything else? *[Email me](mailto:{{site.personal_email}})*
