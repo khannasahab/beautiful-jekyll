@@ -9,7 +9,7 @@ Gaurav Khanna <br/> All Android,Product Engineer, & Data enthusiast <br/> gaurav
 
 {: .box-bordered}
 **Skill Set**
-<br/>- *Core Strength*: OOPS, Android & Java<br/>- Mobile app development (Android SDK, Familiar with Flutter, Cordova) <br/>- Good hold on git<br/><br/><br/>**Bits n Bytes**<br/>- Junit and Espresso tests, Mockito   <br/> - Dependency Injection (Dagger) <br/> - Jenkins for CI/CD <br/>- Database - (MySQL, SQLITE) <br/>- Tools : Git, Bugzilla, Jira , Trello, Invision, Zeplin, Freedcamp etc. <br/> - Analytics: G.A and Firebase<br/>- Basics of Web Development (Jekyll, wordpress, PHP, MVC)
+<br/>- *Core Strength*: OOPS, Android & Java<br/>- Mobile app development (Android SDK, Familiar with Flutter, Cordova) <br/>- Good hold on git<br/><br/><br/>**Bits n Bytes**<br/>- Docker, best tool ever made after git<br/>- Junit and Espresso tests, Mockito   <br/> - Dependency Injection (Dagger) <br/> - Jenkins for CI/CD <br/>- Database - (MySQL, SQLITE) <br/>- Tools : Git, Bugzilla, Jira , Trello, Invision, Zeplin, Freedcamp etc. <br/> - Analytics: G.A and Firebase<br/>- Basics of Web Development (Jekyll, wordpress, PHP, MVC)
 
 {: .box-bordered}
 **Education**
