@@ -22,7 +22,11 @@ use-site-title: true
 #### ⏳ &nbsp;[Wanna know about my startup(s)?](/blogs/techpreneur/startup/intro_startup_and_techpreneur/)
 
 {: .box-bordered .link-no-color}
-#### 👉 &nbsp;More about me 👉 [Resume](/hireme), [Cover Letter](/cover-letter)
+#### 👉 &nbsp;More about me [🔡 Resume](/hireme), [🔤 Cover Letter](/cover-letter)
+
+
+{: .box-bordered}
+This is my personal website. I write about Software Development, Startups, Life, and Random thoughts. Feel free to contact from the menu at top of the page OR from the details at bottom of the page.
 
 **Featured Article**
 

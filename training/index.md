@@ -6,6 +6,8 @@ subtitle: Learning never exhausts the mind
 
 In software world, one thing is for sure you can not stop learning. More you invest in yourself, better you become personally and professionaly.
 
+### I know a bit about Android, Java and git. I offer training in same.
+
 {: .box-plain}
 ### Transition To Android
 
