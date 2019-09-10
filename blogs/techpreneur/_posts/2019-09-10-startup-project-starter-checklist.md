@@ -13,27 +13,29 @@ Lately, I attended few startup events, worked in co-working spaces and met a few
 
 Here is a list of few questions I recommend you to answer if you have an idea and want to start your Entrepreneur journey.
 
-- Product Name (Write your product name)
-- One liner explaining your product
-- Intro & Goal (Detailed description, write as much as you can)
-- Who’s it for? (Your target audience: Demography, age, gender etc, be specific)
-- Why build it? (Do not write what and how. Try to explain why is the right time and why you?)
+<div class="box-plain">
+	<b>Checklist</b><br/><br/>
+- Product Name (Write your product name)<br/>
+- One liner explaining your product<br/>
+- Intro & Goal (Detailed description, write as much as you can)<br/>
+- Who’s it for? (Your target audience: Demography, age, gender etc, be specific)<br/>
+- Why build it? (Do not write what and how. Try to explain why is the right time and why you?)<br/>
 
-- What is it? (Check subsections)
-	- Glossary (Keywords and the meaning, try to articulate in simple words)
-	- Views+Pages (If you can envision the pages your product will have, The bird-eye picture of each page, details of the page are not needed at this moment)
-	- Features & User Engagement (Key features: USP you think)
-	- Email & App Notifications (Does your product needs this? What for?)
-	- User Types (Signed in, Logged in, others)
+- What is it? (Check subsections)<br/>
+	- Glossary (Keywords and the meaning, try to articulate in simple words)<br/>
+	- Views+Pages (If you can envision the pages your product will have, The bird-eye picture of each page, details of the page are not needed at this moment)<br/>
+	- Features & User Engagement (Key features: USP you think)<br/>
+	- Email & App Notifications (Does your product needs this? What for?)<br/>
+	- User Types (Signed in, Logged in, others)<br/>
 <br/><br/>
-- Product Inspiration (Similar products, I doubt no product exists similar to what you are planning. Mention close products)
-- Almost cloned (Products you think are very much the same and you can make your product better )
-- Concerns (Money, People, Team, Time, Traction, Legal anything comes in your mind)
-- Design UX Ideas (Something you as a founder can conceive, no one else can)
-- Go to Market (How to get the first 100 users? First 5 paid users?)
-- Monetization (Possible avenues)
-
+- Product Inspiration (Similar products, I doubt no product exists similar to what you are planning. Mention close products)<br/>
+- Almost cloned (Products you think are very much the same and you can make your product better )<br/><br/>
+- Concerns (Money, People, Team, Time, Traction, Legal anything comes in your mind)<br/>
+- Design UX Ideas (Something you as a founder can conceive, no one else can)<br/>
+- Go to Market (How to get the first 100 users? First 5 paid users?)<br/>
+- Monetization (Possible avenues)<br/>
+<br/>
 - If your product is a feature of any other existing product, what do you choose and why?
-
+</div>
 
 The idea is not to demotivate you OR stop you from pursuing. The idea is to prepare you and help you thinking about the bigger picture. Once you have these answers, discuss with your close friends and people you trust. Do not hide your idea, it is worth 0. Hope it is useful and I wish you the best in your journey.
