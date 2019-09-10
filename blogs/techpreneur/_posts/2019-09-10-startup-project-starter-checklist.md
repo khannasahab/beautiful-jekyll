@@ -7,7 +7,7 @@ subscribe_email_startup: true
 tags: [startup, techpreneur]
 ---
 
-Who does not have a Startup idea these days? I got plenty in my docs and I bet you too. But how does one knows if any idea is worthy to pursue? Yes, there are many popular ways; from MVP to surveys to interviewing users and so on. But is there any checklist one can use to articulate the idea well?
+Who does not have a Startup idea these days? I got plenty in my docs and I bet you too. But how does one know if any idea is worthy? Yes, there are many popular ways, from MVP to surveys to interviewing users and so on. But is there any checklist one can use to articulate the idea well?
 
 Lately, I attended few startup events, worked in co-working spaces and met a few early-stage founders. One of the common mistake tech startups admit is not to think the idea thoroughly. Sometimes founders get excited about the tech, sometimes a feature (which might not be product worthy) and sometimes they get pumped up and oversee the other important questions.
 
