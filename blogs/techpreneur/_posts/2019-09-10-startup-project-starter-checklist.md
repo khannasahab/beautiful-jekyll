@@ -27,7 +27,7 @@ Here is a list of few questions I recommend you to answer if you have an idea an
 	- User Types (Signed in, Logged in, others)
 <br/><br/>
 - Product Inspiration (Similar products, I doubt no product exists similar to what you are planning. Mention close products)
-- Almost cloned (Products you think are very much the same and either you can make your product better )
+- Almost cloned (Products you think are very much the same and you can make your product better )
 - Concerns (Money, People, Team, Time, Traction, Legal anything comes in your mind)
 - Design UX Ideas (Something you as a founder can conceive, no one else can)
 - Go to Market (How to get the first 100 users? First 5 paid users?)
