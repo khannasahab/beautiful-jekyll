@@ -14,7 +14,7 @@ Lately, I attended few startup events, worked in co-working spaces and met a few
 Here is a list of few questions I recommend you to answer if you have an idea and want to start your Entrepreneur journey.
 
 <div class="box-plain">
-	<b>Checklist</b><br/><br/>
+	<b>Questions Checklist</b><br/><br/>
 - Product Name (Write your product name)<br/>
 - One liner explaining your product<br/>
 - Intro & Goal (Detailed description, write as much as you can)<br/>
