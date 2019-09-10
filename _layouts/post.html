@@ -53,6 +53,8 @@ layout: base
         </p>
         {% endif %}
 
+        {% include calendly.html %}
+
       </article>
 
       {% if page.tags.size > 0 %}
@@ -71,6 +73,8 @@ layout: base
       {% if page.social-share %}
         {% include social-share.html %}
       {% endif %}
+
+
 
       <ul class="pager blog-pager">
         {% if page.previous.url %}
@@ -96,12 +100,16 @@ layout: base
 <script>
      (adsbygoogle = window.adsbygoogle || []).push({});
 </script>
+
+
+
       {% if page.notcomments %}
         {% else %}
         <div class="disqus-comments">
           {% include disqus.html %}
         </div>
       {% endif %}
+
     </div>
   </div>
 </div>
