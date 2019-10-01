@@ -24,7 +24,7 @@ I worked in India, The Netherlands and United Kingdom.
 ### StartUp Experience
 
 {: .box-bordered}
-***SmartLightApps 2017-2019 (Founder)- Sold***<br/> [SmartLightApps](https://smartlightapps.com) , [HueHello](https:://huehello.com)
+**SmartLightApps 2017-2019 (Founder) - Acquired**<br/> [SmartLightApps](https://smartlightapps.com) , [HueHello](https:://huehello.com)
 <br/><br/>
 Conceived the idea, Developed, and managed IoT app startup end to end.<br/>It got 170k+ downloads. The tech and apps got **acquired** by SetonaLLC. The product was net +ive at the time of acquisition with in-app purchases and subscription model in place.<br/>Find more here [https:://huehello.com](https:://huehello.com)
 
