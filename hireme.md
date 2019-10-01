@@ -4,12 +4,12 @@ title: Resume
 ---
 
 {: .box-plain}
-Gaurav Khanna <br/> All Android,Product Engineer, & Data enthusiast <br/> gaurav-khanna.in <br/> khannasahab.gaurav@gmail.com
+Gaurav Khanna <br/> Product Engineer <br/> gaurav-khanna.in <br/> khannasahab.gaurav@gmail.com
 
 
 {: .box-bordered}
-**Skill Set**
-<br/>- *Core Strength*: OOPS, Android & Java<br/>- Mobile app development (Android SDK, Familiar with Flutter, Cordova) <br/>- Good hold on git<br/><br/><br/>**Bits n Bytes**<br/>- Docker, best tool ever made after git<br/>- Junit and Espresso tests, Mockito   <br/> - Dependency Injection (Dagger) <br/> - Jenkins for CI/CD <br/>- Database - (MySQL, SQLITE) <br/>- Tools : Git, Bugzilla, Jira , Trello, Invision, Zeplin, Freedcamp etc. <br/> - Analytics: G.A and Firebase<br/>- Basics of Web Development (Jekyll, wordpress, PHP, MVC)
+**Skill Set**<br/><br/>*I have a Product mindset and Engineering background. I hold good experience in B2C apps, A/B testing, Feature flags, with play store exposure*<br/><br/>**Product**<br/> - Analytics: G.A and Firebase<br/> - Clear Understanding of the terminologies  like Cost of Acquisition, LTV, Retention, A/B test, Cohort, Funnel etc.<br/> - Experience of building and selling a tech product<br/><br/>
+**Technical**<br/>- OOPS, Android & Java<br/>- Android app development (Familiar with Flutter, ReactNative) <br/>- Git, Docker<br/><br/>**Bits n Bytes**<br/>- Junit, Espresso tests, Mockito, Dependency Injection (Dagger) <br/> - Jenkins, Bitrise for CI/CD <br/>- Database - (MySQL, SQLITE) <br/>- Tools : Git, Bugzilla, Jira , Trello, Invision, Zeplin, Freedcamp etc. <br/>- Basics of Web Development (Jekyll, wordpress, PHP, MVC) <br/>
 
 {: .box-bordered}
 **Education**
@@ -21,53 +21,51 @@ Masters in Computers Science from Kurukshetra University and Bachelor in compute
 <br/><br/>
 I worked in India, The Netherlands and United Kingdom.
 
+### StartUp Experience
+
+{: .box-bordered}
+***SmartLightApps 2017-2019 (Founder)- Sold***<br/> [SmartLightApps](https://smartlightapps.com) , [HueHello](https:://huehello.com)
+<br/><br/>
+Conceived the idea, Developed, and managed IoT app startup end to end.<br/>It got 170k+ downloads. The tech and apps got **acquired** by SetonaLLC. The product was net +ive at the time of acquisition with in-app purchases and subscription model in place.<br/>Find more here [https:://huehello.com](https:://huehello.com)
+
+{: .box-bordered}
+**Watstime - 2016 (Founder)**
+<br/><br/>
+It is a startup I founded. One liner product was: setting other people alarm and social alarms. Though it never became a startup and died as an app. I was responsible for doing development and running it as a lean startup (Interns, Operations, Development, Management etc). It got accepted in **fb-startup** program and received total of 5k downloads in first 5 months. Had to shut down because of financial reasons.
+
+
 
 ### Projects & Experience
 
 
 {: .box-bordered}
-**Philips Hue (Android Architect & Engineer)**
+**Philips Hue (Android Engineer)**
 <br/><br/>
-One of its kind and market leader in smart lights: philips hue. Part of the android team with core responsibility of architecting and developing Hue app.<br/><br/>**Responsibilities**<br/>- Architecting & Refactoring complete app (Earlier it was outsourced by Philips)<br/>- JUnit Test wherever applicable<br/>- Presented Hue app to many stakeholders inside the company<br/>- Pushed for modular architecture, Material design and subtle animations<br/>- Participating in learning sessions and presenting<br>- Introduced modularisation concept in app<br/><br/>It is way more complex app than it appears from outlook because of underlying protocol involved (*Zigbee*).
+One of its kind and market leader in smart lights: philips hue. Part of the android team with core responsibility of architecting and developing Hue app.<br/><br/>Responsibilities included architecting & refactoring the app (Earlier it was outsourced by Philips), Junit, Presenting to stakeholder, initiatives like modular architecture, Material design etc.
 
 
 {: .box-bordered}
 **Booking.com (Android Engineer)**
 <br/><br/>
-Part of Android team. We had a mantra in Booking, *We believe in God, rest everyone bring data*.<br/><br/>**Responsibilities** <br/>- Implementing Android features <br/>- Coming up with ideas to increase conversion on payment step of funnel<br/>- interviewing Android devs <br/>- A/B Testing features and evaluating results using internal tools<br/>- Refactoring payment page of Android app<br/>
+Part of Android team. We had a mantra in Booking, *We believe in God, rest everyone bring data*.<br/><br/>Responsibilities included Implementing Android features, Coming up with ideas to increase conversion on payment step of funnel,Interviewing Android devs, A/B Testing features and evaluating results using internal tools
 
 
 {: .box-bordered}
 **hike messenger (Android Lead)**
 <br/><br/>
-Number 1 messenger among Indian youth with more than 50 million downloads. I was a part of the early team and worked on various core technical areas of hike.<br/><br/>**Responsibilities** <br/>- Architected a plugin based model we called *Platform* where you could run small snippets of web code on the fly.<br/>- Led a team with data driven mindset and actively **interviewed** Android developers as we expanded <br/>- Proactively initiated learning Fridays and participated & organized Hackathon <br/>- Implemented emoji keyboard module
+Number 1 messenger among Indian youth with more than 50 million downloads. I was a part of the early team and worked on various core technical areas of hike.<br/><br/>Responsibilities included Architecting a plugin based model we called *Platform* where you could run small snippets of web code on the fly, Led a team with data driven mindset and actively **interviewed** Android developers ,implemented emoji keyboard module
 
 {: .box-bordered}
-**naukri.com (Android Architect & Engineer)**
+**naukri.com (Android Engineer)**
 <br/><br/>
-India's number 1 job portal, I worked here in setting up Android team and couple of months in backend.<br/><br/>**Responsibilities** <br/>- Setting up Android team and hiring new devs <br/>- Implementing Android features and advising product and design on how to think mobile as we were web only before <br/>- Spent couple of months in backend doing perl, php in search module
+India's number 1 job portal. Responsibilities included setting up Android team and hiring new devs, Implementing Android features and advising product and design on how to think mobile as we were web only before, Spent couple of months in backend doing perl, php in the search module
 
 {: .box-bordered}
 **tcs ignite (Android Trainer & Engineer)**
 <br/><br/>
 I was a technical trainer in TCS ignite and we worked on side projects in Android to train new employees and to facilitate R&D.
 
-### StartUp
 
-{: .box-bordered}
-**Watstime (Founder)**
-<br/><br/>
-It is one of the startup I founded. One liner product was: setting other people alarm and social alarms. Though it never became a startup and died as an app. **Responsibilities** <br/>- Running it as lean startup <br/>- Developing End to End Android app including release cycle and testing <br/>- Hiring Interns and interviewing Android engineers <br/>- I wrote complete Backend API module using Symfony Php and AWS <br/>- Managing cloud with Google help<br/>- Coordinating with freelancers<br/><br/>It got accepted in fb startup program and received total of 5k downloads in first 5 months. I had to shut down because of financial reasons.
-
-{: .box-bordered}
-***SmartLightApps (Founder)- Sold***<br/> https://smartlightapps.com
-<br/><br/>
-I really like IOT and lights in general. Worked on a side project to combine all smart lights under one umbrella. Thought of blogging to make users familiar with smart light use cases and develop one app for all brands. Started with Philips hue because of familiarity with the system. Philips app is named HueHello and users are appreciating it. It has got 120k+ downloads till date. <br/><br/>**Responsibilities** <br/>- Thinking utility and fancy features <br>- Doing POC and proving with data signals <br/>- Coordinating with freelancers on demand <br/>- Architecting Android app (I use IPC and plugin model) <br/>- Managing release cycle and responding to user queries<br/>- In short, start-to-end exposure of App lifecycle from idea to real product<br/><br/>**The tech got acquired in May, 2019**
-
-{: .box-bordered}
-***LinkBoard (Hustle)***<br/> https://linkboard.in
-<br/><br/>
-Hustling on a social content platform. Details coming soon.
 
 {: .box-plain .link-no-color}
 My Android blog: https://gaurav-khanna.in/blogs<br/><br/> Anything else? *[Email me](mailto:{{site.personal_email}})*
