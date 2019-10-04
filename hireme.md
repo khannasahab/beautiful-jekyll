@@ -46,7 +46,7 @@ One of its kind and market leader in smart lights: philips hue. Part of the andr
 {: .box-bordered}
 **Booking.com (Android Engineer)**
 <br/>
-Part of Android team. We had a mantra in Booking, *We believe in God, rest everyone bring data*.<br/><br/>Responsibilities included Implementing Android features, Coming up with ideas to increase conversion on payment step of funnel,Interviewing Android devs, A/B Testing features and evaluating results using internal tools
+Part of Android team and data driven culture. We had a mantra in Booking, *We believe in God, rest everyone bring data*.<br/><br/>Responsibilities included Implementing Android features, Coming up with ideas to increase conversion on payment step of funnel,Interviewing Android devs, A/B Testing features and evaluating results using internal tools
 
 
 {: .box-bordered}
