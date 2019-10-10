@@ -8,16 +8,16 @@ Gaurav Khanna <br/> Product Engineer <br/> https://gaurav-khanna.in , khannasaha
 
 
 {: .box-bordered}
-**Skill Set**<br/><br/>*I hold good experience in B2C apps, A/B testing, Feature flags, with play store, firebase and AWS exposure.* I have tasted the software journey from inception to acquisition. <br/><br/>**Technical**<br/>- OOPS, Android, Java & Kotlin<br/>- Android app development (Familiar with Flutter, ReactNative) <br/>- Git, Docker<br/><br/>**Bits n Bytes**<br/>- Junit, Espresso tests, Mockito, Dependency Injection (Dagger) <br/> - Jenkins, Bitrise for CI/CD <br/>- Database - (MySQL, SQLITE) <br/>- Tools : Git, Bugzilla, Jira , Trello, Invision, Zeplin, Freedcamp etc. <br/>- Basics of Web Development (Jekyll, wordpress, PHP, MVC) <br/><br/>**Product**<br/> - Analytics: G.A and Firebase<br/> - Clear Understanding of the terminologies  like Cost of Acquisition, LTV, Retention, A/B test, Cohort, Funnel, DAU, MAU etc.<br/> - Experience of building and selling a tech product<br/>
+**Skill Set**<br/><br/>*I hold good experience in B2C apps, A/B testing, Feature flags, with play store, firebase and AWS exposure.* I have tasted the software journey from inception to acquisition. <br/><br/>**Technical**<br/>- OOPS, Android, Java & Kotlin<br/>- Android app development (Familiar with Flutter, ReactNative) <br/>- Git, Docker<br/><br/>**Bits n Bytes**<br/>- Junit, Espresso tests, Mockito, Dependency Injection (Dagger) <br/> - Jenkins, Bitrise for CI/CD <br/>- Tools : Git, Bugzilla, Jira , Trello, Invision, Zeplin, Freedcamp, Figma etc. <br/>- Basics of Web Development (Jekyll, wordpress, PHP-Symfony, Java-Spring, MVC) <br/><br/>**Product**<br/> - Analytics: G.A and Firebase<br/> - Clear Understanding of the terminologies  like Cost of Acquisition, LTV, Retention, A/B test, Cohort, Funnel, DAU, MAU etc.<br/> - Experience of building and selling a tech product<br/>
 
 {: .box-bordered}
 **Education**
-<br/><br/>
+<br/>
 Masters in Computers Science from Kurukshetra University and Bachelor in computer applications from Kurukshetra University.
 
 {: .box-bordered}
 **Countries**
-<br/><br/>
+<br/>
 I worked in India, The Netherlands and United Kingdom.
 
 ### StartUp Experience
@@ -25,7 +25,7 @@ I worked in India, The Netherlands and United Kingdom.
 {: .box-bordered}
 **SmartLightApps (Founder) - Acquired** Mar 2017- July 2019<br/> [SmartLightApps](https://smartlightapps.com) , [HueHello](https:://huehello.com)
 <br/>
-Conceived the idea, Developed, and managed IoT app startup end to end.<br/>It got 170k+ downloads. The tech and apps got **acquired** by SetonaLLC. The product was net +ive at the time of acquisition with in-app purchases and subscription model in place. I was responsible for Product management, Roadmap prioritization, Android app development, and managing freelancers (design + ios). A lean startup.<br/>Find more here https:://huehello.com
+Conceived the idea, Developed, and managed IoT app startup end to end.<br/>It got 170k+ downloads. The tech and apps got **acquired** by SetonaLLC. The product was net +ive at the time of acquisition with in-app purchases and subscription model in place. I was responsible for Product management, Roadmap prioritization, **Complete Android app development (IPC and plugin model)**, and managing freelancers (design + ios). A lean startup.<br/>Find more here https:://huehello.com
 
 {: .box-bordered}
 **Watstime - (Founder - side project)** 2016 
@@ -40,7 +40,7 @@ It is another startup I founded. One liner product was: setting other people ala
 {: .box-bordered}
 **Philips Hue (Android Engineer)** May 2017 - July 2018
 <br/>
-One of its kind and market leader in smart lights: philips hue. Part of the android team with core responsibility of architecting and developing Hue app.<br/><br/>Responsibilities included architecting & refactoring the app (Earlier it was outsourced by Philips), Junit, Presenting to stakeholder, initiatives like modular architecture, Material design etc.
+One of its kind and market leader in smart lights: philips hue. Part of the android team with core responsibility of architecting and developing Hue app.<br/><br/>Responsibilities included architecting & refactoring the app, Junit, Presenting to stakeholder, initiatives like modular architecture, adapting Kotlin, Material design etc.
 
 
 {: .box-bordered}
