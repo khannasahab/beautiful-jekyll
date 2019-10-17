@@ -1136,3 +1136,8 @@ input.md-input:focus ~ .md-highlight {
   from { background:#404040; }
   to  { width:0; background:transparent; }
 }
+
+.highlighter-rouge-green{
+  color: #c7254e;
+  background-color:  #f9f2f4;
+}
