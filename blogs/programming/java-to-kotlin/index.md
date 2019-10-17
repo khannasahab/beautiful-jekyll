@@ -78,7 +78,7 @@ url=page.part-5
 %}
 
 {: .box-plain}
-Topics in Part 5: [Null Reference]({{ page.part-5 }}#null-reference), [Alvis ?:]({{ page.part-5 }}#alvis-operator), [Let]({{ page.part-5 }}#let), [Safe Cast]({{ page.part-5 }}#safe-cast)
+Topics in Part 5: [Null Reference]({{ page.part-5 }}#null-reference), [Elvis ?:]({{ page.part-5 }}#alvis-operator), [Let]({{ page.part-5 }}#let), [Safe Cast]({{ page.part-5 }}#safe-cast)
 
 {% include post_card.html 	
 title="Part 6" 
