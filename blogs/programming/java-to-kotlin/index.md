@@ -25,10 +25,10 @@ Our motto from this series is to reduce the friction for java developers to adap
 
 *`Disclaimer : Wherever possible, We will have Java code and similar Kotlin code. I care for you`*
 
-This series is divided into few parts. The logic behind the sequence chosen: Earlier parts show the minimal difference between Kotlin and Java so you can grasp the concept easily and feel confident. The parts at end show more capabilities of Kotlin and offerings which are either not present in Java OR they are slighty different as a concept.
+This series is divided into few parts. The logic behind the sequence chosen: Earlier parts show the minimal difference between Kotlin and Java so you can grasp the concept easily and feel confident. The parts at the end show more capabilities and offerings of Kotlin which are either not present in Java OR they are slighty different as a concept.
 
 >Some points to note: <br/>
-<br/> 👉 Keep in mind Kotlin is a JVM based language, so whateve you do in Kotlin can also be done in Java
+<br/> 👉 Whatever you do in Kotlin can also be done in Java
 <br/> 👉 From language basics perspective, Kotlin is syntatical sugar over Java. I say Java is compiled, Kotlin is smartly compiled.
 <br/> 👉 There are some cases where Kotlin is more efficient (the new offerings from Kotlin Platform Classes, we will see later)
 <br/> 👉 All the parts of this series are connected, it is better to read in the sequence. Bookmark it now.
