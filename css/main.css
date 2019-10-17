@@ -366,6 +366,7 @@ footer .theme-by {
 }
 .post-entry {
   width: 100%;
+  margin: 0px;
 }
 .post-image {
   float: right;
@@ -1043,7 +1044,7 @@ input.md-input:focus ~ .md-highlight {
   display: flex;
   flex: 1 1 auto;
   flex-direction: column;
-  padding: 3rem;
+  padding: 0rem 3rem 2rem 3rem;
 }
 
 .md-card__image {
@@ -1127,6 +1128,9 @@ input.md-input:focus ~ .md-highlight {
   background-image: url(/img/all-about-bundle.jpeg);
 }
 
+.md-card_image_java_to_kotlin {
+  background-image: url(/img/java-kotlin/java_kotlin.jpeg);
+}
 
 @keyframes inputHighlighter {
   from { background:#404040; }
