@@ -52,8 +52,10 @@ layout: base
           </br>👉 Subscribe to newsletter and keep learning
         </p>
         {% endif %}
-
+      {% if page.notschedule %}
+        {% else %}
         {% include calendly.html %}
+        {% endif %}
 
       </article>
 
