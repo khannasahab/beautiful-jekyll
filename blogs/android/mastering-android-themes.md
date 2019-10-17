@@ -55,4 +55,5 @@ url="/blogs/android/ui/mastering-android-themes-summary"
 
 {% include training_conf.html %}
 
+{% include buy_me_coffee.html %}
 

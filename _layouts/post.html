@@ -34,6 +34,8 @@ layout: base
       <article role="main" class="blog-post">
         {{ content }}
 
+        {% include buy_me_coffee.html %}
+
         {% if page.subscribe_email %}
           {% include subscribe_email.html %}
         {% endif %}
@@ -104,6 +106,7 @@ layout: base
 </script>
 
 
+      
 
       {% if page.notcomments %}
         {% else %}

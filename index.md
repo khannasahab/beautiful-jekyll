@@ -42,6 +42,8 @@ description="A philosophical article of technical learning. How to approach laun
 url="/blogs/techpreneur/startup/how-i-sold-my-first-android-app-startup/"
 %}
 
+{% include buy_me_coffee.html %}
+
 
 
 

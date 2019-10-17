@@ -33,3 +33,5 @@ url="/blogs/android/mastering-android-handler/part-2"
 {% include subscribe_email.html %}
 
 {% include training_conf.html %}
+
+{% include buy_me_coffee.html %}

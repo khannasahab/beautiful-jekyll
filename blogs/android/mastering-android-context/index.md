@@ -57,3 +57,5 @@ url="/blogs/android/mastering-android-context/summary"
 {% include subscribe_email.html %}
 
 {% include training_conf.html %}
+
+{% include buy_me_coffee.html %}
