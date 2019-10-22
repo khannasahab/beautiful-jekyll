@@ -1132,6 +1132,12 @@ input.md-input:focus ~ .md-highlight {
   background-image: url(/img/java-kotlin/java_kotlin.jpeg);
 }
 
+
+.md-card_dagger2_dep_dep {
+  background-image: url(/img/dagger2/dependency.png);
+}
+
+
 @keyframes inputHighlighter {
   from { background:#404040; }
   to  { width:0; background:transparent; }
