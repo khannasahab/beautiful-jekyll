@@ -4,11 +4,14 @@ title: Resume
 ---
 
 {: .box-plain}
+[`Download Pdf Here`](/Resume.pdf)
+
+{: .box-plain}
 Gaurav Khanna <br/> Product Engineer <br/> https://gaurav-khanna.in , khannasahab.gaurav@gmail.com 
 
 
 {: .box-bordered}
-**Skill Set**<br/><br/>*I hold good experience in B2C apps, A/B testing, Feature flags, with play store, firebase and AWS exposure.* I have tasted the software journey from inception to acquisition. <br/><br/>**Technical**<br/>- OOPS, Android, Java & Kotlin<br/>- Android app development (Familiar with Flutter, ReactNative) <br/>- Git, Docker<br/><br/>**Bits n Bytes**<br/>- Junit, Espresso tests, Mockito, Dependency Injection (Dagger) <br/> - Gradle for build system and Jenkins, Bitrise for CI/CD <br/>- Tools : Git, Bugzilla, Jira , Trello, Invision, Zeplin, Freedcamp, Figma etc. <br/>- Basics of Web Development (Jekyll, wordpress, PHP-Symfony, Java-Spring, MVC) <br/><br/>**Product**<br/> - Analytics: G.A and Firebase<br/> - Clear Understanding of the terminologies  like Cost of Acquisition, LTV, Retention, A/B test, Cohort, Funnel, DAU, MAU etc.<br/> - Experience of building and selling a tech product<br/>
+**Skill Set**<br/><br/>*I hold good experience in B2C apps, A/B testing, Feature flags, with play store, firebase and AWS exposure.* I have tasted the software journey from inception to acquisition. <br/><br/>**Technical**<br/>- OOPS, Android, Java & Kotlin<br/>- Android app development (Familiar with Flutter, ReactNative) <br/>- Git, Docker<br/><br/>**Bits n Bytes**<br/>- Junit, Mockito, Dependency Injection (Dagger) <br/> - Gradle for build system and Jenkins, Bitrise for CI/CD <br/>- Tools : Git, Bugzilla, Jira , Trello, Invision, Zeplin, Freedcamp, Figma etc. <br/>- Basics of Web Development (Jekyll, wordpress, PHP-Symfony, Java-Spring, MVC) <br/><br/>**Product**<br/> - Analytics: G.A and Firebase<br/> - Clear Understanding of the terminologies  like Cost of Acquisition, LTV, Retention, A/B test, Cohort, Funnel, DAU, MAU etc.<br/> - Experience of building and selling a tech product<br/>
 
 {: .box-bordered}
 **Education**
@@ -25,7 +28,7 @@ I worked in India, The Netherlands and United Kingdom.
 {: .box-bordered}
 **SmartLightApps (Founder) - Acquired** Mar 2017- July 2019<br/> [SmartLightApps](https://smartlightapps.com) , [HueHello](https://huehello.com)
 <br/>
-Conceived the idea, Developed, and managed IoT app startup end to end.<br/>It got 170k+ downloads. The tech and apps got **acquired** by SetonaLLC. The product was net +ive at the time of acquisition with in-app purchases and subscription model in place. I was responsible for Product management, Roadmap prioritization, **Complete Android app development (IPC and plugin model)**, and managing freelancers (design + ios). A lean startup.<br/>Find more here https:://huehello.com
+Conceived the idea, Developed, and managed IoT app startup end to end.<br/>It got 170k+ downloads. The tech and apps got **acquired** by SetonaLLC. The product was net +ive at the time of acquisition with in-app purchases and subscription model in place. I was responsible for Product management, Roadmap prioritization, **Complete Android app development (IPC and plugin model)**, and managing freelancers (design + ios). A lean startup.
 
 {: .box-bordered}
 **Watstime - (Founder - side project)** 2016 
@@ -64,7 +67,12 @@ India's number 1 job portal. Responsibilities included setting up Android team a
 <br/>
 I was a technical trainer in TCS ignite and we worked on side projects in Android to train new employees and to facilitate R&D.
 
+### Volunteering
+
+{: .box-bordered}
+**'Kuch acha Krte hai' -> 'Lets do some good'** 2014 - 2016<br/>Every new year we used to collect donation from facebook friends to distribute gifts among poor kids. I started that group. [Facebook Link](https://www.facebook.com/Kuch-Acha-Krte-hai-650069005162621)
 
 
-{: .box-plain .link-no-color}
-My Android blog: https://gaurav-khanna.in/blogs<br/><br/> Anything else? *[Email me](mailto:{{site.personal_email}})*
+
+{: .box-plain}
+Here is [**my Android blog**](https://gaurav-khanna.in/blogs)<br/><br/> Anything else? [Email me](mailto:{{site.personal_email}})
