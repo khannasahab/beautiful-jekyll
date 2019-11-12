@@ -125,4 +125,11 @@ url=page.part-10
 {: .box-plain}
 Topics in Part 10:  [Late Init]({{page.part-10}}#lateinit), [Delegator]({{page.part-10}}#delegator), [Lazy]({{page.part-10}}#lazy), [Coroutine]({{page.part-10}}#coroutine)
 
+{% include post_card.html 	
+title="Bonus - Mastering Kotlin Scoped and Higher-Order Functions" 
+description=" Learn the fundamentals, master the concept..."
+url="https://blog.kotlin-academy.com/mastering-kotlin-scoped-and-higher-order-functions-23e2dd34d660"
+%}
+
+
 {% include buy_me_coffee.html %}
