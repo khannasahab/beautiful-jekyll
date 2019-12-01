@@ -1138,6 +1138,10 @@ input.md-input:focus ~ .md-highlight {
 }
 
 
+.md-card_emergency-mayday {
+  background-image: url(/img/emergency-mayday-small.jpeg);
+}
+
 @keyframes inputHighlighter {
   from { background:#404040; }
   to  { width:0; background:transparent; }
