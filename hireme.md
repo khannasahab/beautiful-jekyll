@@ -28,7 +28,7 @@ I worked in India, The Netherlands and United Kingdom.
 {: .box-bordered}
 **SmartLightApps (Founder) - Acquired** Mar 2017- July 2019<br/> [SmartLightApps](https://smartlightapps.com) , [HueHello](https://huehello.com)
 <br/>
-Conceived the idea, Developed, and managed IoT app startup end to end.<br/>It got 170k+ downloads. The tech and apps got **acquired** by SetonaLLC. The product was net +ive at the time of acquisition with in-app purchases and subscription model in place. I was responsible for Product management, Roadmap prioritization, **Complete Android app development (IPC and plugin model)**, and managing freelancers (design + ios). A lean startup.
+Conceived the idea, Developed, and managed IoT app startup end to end.<br/>It got 170k+ downloads. The tech and apps got **acquired** by SetonaLLC. The product was net +ive at the time of acquisition with in-app purchases and subscription model in place. I was responsible for Product management, Roadmap prioritization, **Complete Android app development (IPC and plugin model, architecture components, Firebase integration, A/B testing, Feature flags, Kotlin)**, and managing freelancers (design + ios). A lean startup.
 
 {: .box-bordered}
 **Watstime - (Founder - side project)** 2016 
@@ -38,6 +38,12 @@ It is another startup I founded. One liner product was: setting other people ala
 
 
 ### Projects & Experience
+
+
+{: .box-bordered}
+**Peak Games (Android Contractor - Remote)** Feb 2019 - Present
+<br/>
+Social tech and Health tech are areas close to my heart. Peak games (Brainbow) is a fast growing company in brain games category. I am part of the core Android team. I visited London a few times and I am working remotely.<br/><br/>Responsibilities include architecting the App, converting all the games into Dynamic bundle format, Bitrise CI/CD, day to day feature development. All the new development is being done in Kotlin along with Architecture components.
 
 
 {: .box-bordered}
