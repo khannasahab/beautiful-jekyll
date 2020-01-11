@@ -11,7 +11,7 @@ Gaurav Khanna <br/> Product Engineer <br/> https://gaurav-khanna.in , khannasaha
 
 
 {: .box-bordered}
-**Skill Set**<br/><br/>*I hold good experience in B2C apps, A/B testing, Feature flags, with play store, firebase and AWS exposure.* I have tasted the software journey from inception to acquisition. <br/><br/>**Technical**<br/>- OOPS, Android, Java & Kotlin<br/>- Android app development (Familiar with Flutter, ReactNative) <br/>- Git, Docker<br/><br/>**Bits n Bytes**<br/>- Junit, Mockito, Dependency Injection (Dagger) <br/> - Gradle for build system and Jenkins, Bitrise for CI/CD <br/>- Tools : Git, Bugzilla, Jira , Trello, Invision, Zeplin, Freedcamp, Figma etc. <br/>- Basics of Web Development (Jekyll, wordpress, PHP-Symfony, Java-Spring, MVC) <br/><br/>**Product**<br/> - Analytics: G.A and Firebase<br/> - Clear Understanding of the terminologies  like Cost of Acquisition, LTV, Retention, A/B test, Cohort, Funnel, DAU, MAU etc.<br/> - Experience of building and selling a tech product<br/>
+**Skill Set**<br/><br/>*I hold good experience in B2C apps, A/B testing, Feature flags, with play store, firebase and AWS exposure.* I have tasted the software journey from inception to acquisition. <br/><br/>**Technical**<br/>- OOPS, Android, Java & Kotlin<br/>- Android app development (Architecture Components, Kotlin)(Familiar with Flutter, ReactNative) <br/>- Git, Docker<br/><br/>**Bits n Bytes**<br/>- Junit, Mockito, Dependency Injection (Dagger) <br/> - Gradle for build system and Jenkins, Bitrise for CI/CD <br/>- Tools : Git, Bugzilla, Jira , Trello, Invision, Zeplin, Freedcamp, Figma etc. <br/>- Basics of Web Development (Jekyll, wordpress, PHP-Symfony, Java-Spring, MVC) <br/><br/>**Product**<br/> - Analytics: G.A and Firebase<br/> - Clear Understanding of the terminologies  like Cost of Acquisition, LTV, Retention, A/B test, Cohort, Funnel, DAU, MAU etc.<br/> - Experience of building and selling a tech product<br/>
 
 {: .box-bordered}
 **Education**
@@ -43,7 +43,7 @@ It is another startup I founded. One liner product was: setting other people ala
 {: .box-bordered}
 **Peak Games (Android Contractor - Remote)** Feb 2019 - Present
 <br/>
-Social tech and Health tech are areas close to my heart. Peak games (Brainbow) is a fast growing company in brain games category. I am part of the core Android team. I visited London a few times and I am working remotely.<br/><br/>Responsibilities include architecting the App, converting all the games into Dynamic bundle format, Bitrise CI/CD, day to day feature development. All the new development is being done in Kotlin along with Architecture components.
+Social tech and Health tech are areas close to my heart. Peak games (Brainbow) is a fast growing company in brain games category. I am part of the core Android team. I visited London a few times and I am working remotely.<br/><br/>Responsibilities include architecting the App, converting all the games into Dynamic bundle format, Bitrise CI/CD, A/B testing via Apptimize, day to day feature development. All the new development is being done in Kotlin along with Architecture components.
 
 
 {: .box-bordered}
