@@ -15,6 +15,10 @@
 <meta property="og:image" content="{{site.url}}{{ page.bigimg }}" />
 {% endif %}
 
+{% if page.ogimage %}
+<meta property="og:image" content="{{site.url}}{{ page.ogimage }}" />
+{% endif %}
+
   {% if page.subtitle %}
   <meta name="description" content="{{ page.subtitle }}">
   {% endif %}

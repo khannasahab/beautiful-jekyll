@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Resume
+ogimage: /img/android_logo_hire_me.webp
 ---
 
 {: .box-plain }
