@@ -39,6 +39,7 @@ navbar-links:
     - Life Blog: "blogs/life"
     - Travel: "blogs/travel"
     - Meeting: "schedule"
+    - Resume: "hireme"
 
   #Resources:
    # - Beautiful Jekyll: "http://deanattali.com/beautiful-jekyll/"

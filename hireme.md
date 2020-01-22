@@ -3,37 +3,40 @@ layout: page
 title: Resume
 ---
 
-{: .box-plain}
-[`Download Pdf Here`](/Resume.pdf)
+{: .box-plain }
+[Download Pdf Here](/Resume.pdf)
 
 {: .box-plain}
-Gaurav Khanna <br/> Product Engineer <br/> https://gaurav-khanna.in , khannasahab.gaurav@gmail.com 
+Gaurav Khanna <br/> Android Engineer <br/> https://gaurav-khanna.in , khannasahab.gaurav@gmail.com 
 
 
-{: .box-bordered}
-**Skill Set**<br/><br/>*I hold good experience in B2C apps, A/B testing, Feature flags, with play store, firebase and AWS exposure.* I have tasted the software journey from inception to acquisition. <br/><br/>**Technical**<br/>- OOPS, Android, Java & Kotlin<br/>- Android app development (Architecture Components, Kotlin)(Familiar with Flutter, ReactNative) <br/>- Git, Docker<br/><br/>**Bits n Bytes**<br/>- Junit, Mockito, Dependency Injection (Dagger) <br/> - Gradle for build system and Jenkins, Bitrise for CI/CD <br/>- Tools : Git, Bugzilla, Jira , Trello, Invision, Zeplin, Freedcamp, Figma etc. <br/>- Basics of Web Development (Jekyll, wordpress, PHP-Symfony, Java-Spring, MVC) <br/><br/>**Product**<br/> - Analytics: G.A and Firebase<br/> - Clear Understanding of the terminologies  like Cost of Acquisition, LTV, Retention, A/B test, Cohort, Funnel, DAU, MAU etc.<br/> - Experience of building and selling a tech product<br/>
 
 {: .box-bordered}
-**Education**
-<br/>
-Masters in Computers Science from Kurukshetra University and Bachelor in computer applications from Kurukshetra University.
+I hold a very good experience (~9 years) in Android. Worked with the market leaders of their domain (Naukri, Hike, Booking and Philips). <br/><br/>- **Android** Architecture Components (Livedata, ViewModel, Room)<br/>- Mostly **MVVM** (MVP in one project) <br/>- Proficient in **Kotlin** (Have written a few blogs) <br/>- Strong experience with multi-threading (**Coroutine**, Java concurrency, Android offerings like Service, WorkManager) <br/>- **Unit Testing** (Mockito, Junit)<br/>- Good hold on **Git**<br/>- **Dependency Injection** (Dagger 2)<br/>- Working knowledge of **Gradle** and experience with Jenkins + Bitrise (**CI/CD**) <br/>- Experience with Deployment (Bundles, Play store), A/B Testing, Feature Flags<br/>- Experience with in-app purchase and subscription<br/><br/>I maintain an [Android blog here](https://gaurav-khanna.in/blogs)
 
 {: .box-bordered}
-**Countries**
-<br/>
-I worked in India, The Netherlands and United Kingdom.
+*Product*<br/> - Firebase and Google Analytics<br/> - Clear Understanding of the terminologies  like Cost of Acquisition, LTV, Retention, A/B test, Cohort, Funnel, DAU, MAU etc.<br/> - Experience of **building and selling** a tech product<br/>
+
+{: .box-bordered}
+*Other*<br/>- I maintain my website (Jekyll and Git pages)<br/>- Managed AWS for a POC I did<br/>- Led 2 Android teams till date (Hike and Peak)<br/>- Experience of contracting and working remotely<br/>- Tried 2 Android app startups (1 got selected in fbStartup and other got acquired) <br/>- Interview as a service. I help startups/companies to hire right tech talent (Client till date: **Priceline and Autoportal**)<br/>- I was a Java trainer once and I enjoy teaching
+
+{: .box-bordered}
+*Education*: Masters in Computers Science from Kurukshetra University
+
+{: .box-bordered}
+*Countries*: Experience of working in India, The Netherlands and United Kingdom
 
 ### StartUp Experience
 
 {: .box-bordered}
 **SmartLightApps (Founder) - Acquired** Mar 2017- July 2019<br/> [SmartLightApps](https://smartlightapps.com) , [HueHello](https://huehello.com)
 <br/>
-Conceived the idea, Developed, and managed IoT app startup end to end.<br/>It got 170k+ downloads. The tech and apps got **acquired** by SetonaLLC. The product was net +ive at the time of acquisition with in-app purchases and subscription model in place. I was responsible for Product management, Roadmap prioritization, **Complete Android app development (IPC and plugin model, architecture components, Firebase integration, A/B testing, Feature flags, Kotlin)**, and managing freelancers (design + ios). A lean startup.
+Conceived the idea, Developed, and managed IoT app startup end to end.<br/>It got 170k+ downloads. The tech and apps got **acquired** by SetonaLLC. My responsibilities:<br/>- Product management, Roadmap prioritization, and managing freelancers<br/>- Complete Android app development (IPC and plugin model, architecture components, Firebase integration, A/B testing, Feature flags, Kotlin)
 
 {: .box-bordered}
 **Watstime - (Founder - side project)** 2016 
 <br/>
-It is another startup I founded. One liner product was: setting other people alarm and social alarms. Though it never became a startup and died as an app. I was responsible for doing development and running it as a lean startup (Interns, Operations, Development, Management etc). It got accepted in **fb-startup** program and received total of 5k downloads in first 5 months. Had to shut down because of financial reasons.
+It is another startup I founded. One liner product was: setting other people alarm and social alarms. Though it never became a startup and died as an app. I was responsible for the complete **Android App** development. It got accepted in **fb-startup** program. Had to shut down because of financial reasons.
 
 
 
@@ -43,25 +46,25 @@ It is another startup I founded. One liner product was: setting other people ala
 {: .box-bordered}
 **Peak Games (Android Contractor - Remote)** Feb 2019 - Present
 <br/>
-Social tech and Health tech are areas close to my heart. Peak games (Brainbow) is a fast growing company in brain games category. I am part of the core Android team. I visited London a few times and I am working remotely.<br/><br/>Responsibilities include architecting the App, converting all the games into Dynamic bundle format, Bitrise CI/CD, A/B testing via Apptimize, day to day feature development. All the new development is being done in Kotlin along with Architecture components.
+Peak games (Brainbow) is a fast growing company in brain games category with more than 10 Million+ downloads. I am part of the core Android team. Visited London a few times and I am working remotely.<br/><br/>Responsibilities:<br/>- Android team lead for 6 months when I was in London<br/>- Architecting the App for the new features <br/>- Converting all the games into Dynamic bundle format<br/>- Bitrise for CI/CD, A/B testing via Apptimize<br/>- All the new development is being done in Kotlin along with Architecture components (Introduced MVVM)<br/>- Interviewing Andriod devs
 
 
 {: .box-bordered}
 **Philips Hue (Android Engineer)** May 2017 - July 2018
 <br/>
-One of its kind and market leader in smart lights: philips hue. Part of the android team with core responsibility of architecting and developing Hue app.<br/><br/>Responsibilities included architecting & refactoring the app, Junit, Presenting to stakeholder, initiatives like modular architecture, adapting Kotlin, Material design etc.
+Android app to control philips hue smart lights. Part of the android core team. Responsibilities:<br/>- Architecting & refactoring the app<br/>- Junit test<br/>- Presenting to stakeholder<br/>- Initiatives like modular architecture, adapting Kotlin, Material design
 
 
 {: .box-bordered}
 **Booking.com (Android Engineer)** Apr 2016 - May 2017 
 <br/>
-Part of Android team and data driven culture. We had a mantra in Booking, *We believe in God, rest everyone bring data*.<br/><br/>Responsibilities included Implementing Android features, Coming up with ideas to increase conversion on payment step of funnel,Interviewing Android devs, A/B Testing features and evaluating results using internal tools
+Part of Android team and data driven culture. We had a mantra in Booking, *We believe in God, rest everyone bring data*. We used extensive A/B testing with in-house tooling.Responsibilities:<br/>- Implementing Android features<br/>- Coming up with ideas to increase conversion on payment step of funnel <br/>- Interviewing Android devs<br/>- A/B Testing features and evaluating results using internal tools
 
 
 {: .box-bordered}
 **hike messenger (Android Lead)** Aug 2014 - Mar 2016 
 <br/>
-Number 1 messenger among Indian youth with more than 50 million downloads. I was a part of the early team and worked on various core technical areas of hike.<br/><br/>Responsibilities included Architecting a plugin based model we called *Platform* where you could run small snippets of web code on the fly, Led a team with data driven mindset and actively **interviewed** Android developers ,implemented emoji keyboard module
+Number 1 messenger among Indian youth with more than 50 million downloads. I was a part of the early team and worked on various core technical areas of hike.Responsibilities:<br.>- Architecting a plugin based model we called *Platform* where you could run small snippets of web code on the fly<br/>- Led a team with data driven mindset and interviewed Android developers<br/>- implemented emoji keyboard module
 
 {: .box-bordered}
 **naukri.com (Android Engineer)** Sep 2012 - July 2014
@@ -81,4 +84,4 @@ I was a technical trainer in TCS ignite and we worked on side projects in Androi
 
 
 {: .box-plain}
-Here is [**my Android blog**](https://gaurav-khanna.in/blogs)<br/><br/> Anything else? [Email me](mailto:{{site.personal_email}})
+Here is [**my website**](https://gaurav-khanna.in/) Anything else? [Email me](mailto:{{site.personal_email}})

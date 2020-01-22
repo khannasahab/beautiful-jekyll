@@ -6,7 +6,7 @@ subtitle: A tourist on this place called Earth
 
 Hi there, My name is Gaurav Khanna. I am passionate about a few things in life and not at all interested in lot more.
 
-### Professional life, till date...
+### Professional life, till date... [Click here for Resume](/hireme)
 
 - Product Engineer - Startups, Discussions around ideas and Create meaningful stuff
 

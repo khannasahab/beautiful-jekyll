@@ -15,4 +15,7 @@ I offer interview as a service. I started this work to help early stage non-tech
 👉 Product/Startup Engineer, Development, Architecture, A/B test, Data analysis, understanding of the product terms like DAU, MAU, LTV, Funnel, COA etc.<br/>
 👉 Communication Skill<br/>
 
+{: .box-bordered}
+#### Clients till date: Priceline and Autoportal
+
 [Feel free to contact](mailto:{{ site.personal_email }})
