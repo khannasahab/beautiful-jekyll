@@ -19,13 +19,10 @@ I hold a good experience (~9 years) in Android. Worked with the market leaders o
 *Product*<br/> - Firebase and Google Analytics<br/> - Clear Understanding of the terminologies  like Cost of Acquisition, LTV, Retention, A/B test, Cohort, Funnel, DAU, MAU etc.<br/> - Experience of **building and selling** a tech product<br/>
 
 {: .box-bordered}
-*Other*<br/>- I maintain my website (Jekyll and Git pages)<br/>- Managed AWS for a POC I did<br/>- Led 2 Android teams till date (Hike and Peak)<br/>- Experience of contracting and working remotely<br/>- Tried 2 Android app startups (1 got selected in fbStartup and other got acquired) <br/>- Interview as a service. I help startups/companies to hire right tech talent (Client till date: **Priceline and Autoportal**)<br/>- I was a Java trainer once and I enjoy teaching
+*Other*<br/>- Led 2 Android teams till date (Hike and Peak)<br/>- Experience of contracting and working **remotely**<br/>- Tried 2 Android app startups (1 got selected in **fbStartup** and other got acquired) <br/>- Spent sometime in **Google For Startups**, London<br/>- Interview as a service. I help startups/companies to hire right tech talent (Client till date: **Priceline and Autoportal**)<br/>- Tech enthusiast (Maintaining my website in **Jekyll**, Managed **AWS** and **Docker** for a side project)
 
 {: .box-bordered}
 *Education*: Masters in Computers Science from Kurukshetra University
-
-{: .box-bordered}
-*Countries*: Experience of working in India, The Netherlands and United Kingdom
 
 ### StartUp Experience
 
@@ -45,35 +42,35 @@ It is another startup I founded. One liner product was: setting other people ala
 
 
 {: .box-bordered}
-**Peak Games (Android Contractor - Remote)** Feb 2019 - Present
+**Peak Games (Android Contractor - Remote)** Feb 2019 - Present  (*London*)
 <br/>
 Peak games (Brainbow) is a fast growing company in brain games category with more than 10 Million+ downloads. I am part of the core Android team. Visited London a few times and I am working remotely.<br/><br/>Responsibilities:<br/>- Android team lead for 6 months when I was in London<br/>- Architecting the App for the new features <br/>- Converting all the games into Dynamic bundle format<br/>- Bitrise for CI/CD, A/B testing via Apptimize<br/>- All the new development is being done in Kotlin along with Architecture components (Introduced MVVM)<br/>- Interviewing Andriod devs
 
 
 {: .box-bordered}
-**Philips Hue (Android Engineer)** May 2017 - July 2018
+**Philips Hue (Android Engineer)** May 2017 - July 2018  (*Eindhoven, Netherlands*)
 <br/>
 Android app to control philips hue smart lights. Part of the android core team. Responsibilities:<br/>- Architecting & refactoring the app<br/>- Junit test<br/>- Presenting to stakeholder<br/>- Initiatives like modular architecture, adapting Kotlin, Material design
 
 
 {: .box-bordered}
-**Booking.com (Android Engineer)** Apr 2016 - May 2017 
+**Booking.com (Android Engineer)** Apr 2016 - May 2017   - (*Amsterdam*)
 <br/>
 Part of Android team and data driven culture. We had a mantra in Booking, *We believe in God, rest everyone bring data*. We used extensive A/B testing with in-house tooling.Responsibilities:<br/>- Implementing Android features<br/>- Coming up with ideas to increase conversion on payment step of funnel <br/>- Interviewing Android devs<br/>- A/B Testing features and evaluating results using internal tools
 
 
 {: .box-bordered}
-**hike messenger (Android Lead)** Aug 2014 - Mar 2016 
+**hike messenger (Android Lead)** Aug 2014 - Mar 2016   - (*New Delhi*)
 <br/>
 Number 1 messenger among Indian youth with more than 50 million downloads. I was a part of the early team and worked on various core technical areas of hike.Responsibilities:<br.>- Architecting a plugin based model we called *Platform* where you could run small snippets of web code on the fly<br/>- Led a team with data driven mindset and interviewed Android developers<br/>- implemented emoji keyboard module
 
 {: .box-bordered}
-**naukri.com (Android Engineer)** Sep 2012 - July 2014
+**naukri.com (Android Engineer)** Sep 2012 - July 2014  - (*Noida*)
 <br/>
 India's number 1 job portal. Responsibilities included setting up Android team and hiring new devs, Implementing Android features and advising product and design on how to think mobile as we were web only before, Spent couple of months in backend doing perl, php in the search module
 
 {: .box-bordered}
-**tcs ignite (Android Trainer & Engineer)** July 2010 - Aug 2012
+**tcs ignite (Android Trainer & Engineer)** July 2010 - Aug 2012  - (*Chennai*)
 <br/>
 I was a technical trainer in TCS ignite and we worked on side projects in Android to train new employees and to facilitate R&D.
 
