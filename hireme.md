@@ -13,7 +13,7 @@ Gaurav Khanna <br/> Android Engineer <br/> https://gaurav-khanna.in , khannasaha
 
 
 {: .box-bordered}
-I hold a very good experience (~9 years) in Android. Worked with the market leaders of their domain (Peak, Booking, Philips and Hike). <br/><br/>- **Android** Architecture Components (Livedata, ViewModel, Room)<br/>- Mostly **MVVM** (MVP in one project) <br/>- Proficient in **Kotlin** (Have written a few blogs) <br/>- Strong experience with multi-threading (**Coroutine**, Java concurrency, Android offerings like Service, WorkManager) <br/>- **Unit Testing** (Mockito, Junit)<br/>- Good hold on **Git**<br/>- **Dependency Injection** (Dagger 2)<br/>- Working knowledge of **Gradle** and experience with Jenkins + Bitrise (**CI/CD**) <br/>- Experience with Deployment (Bundles, Play store), A/B Testing, Feature Flags<br/>- Experience with in-app purchase and subscription<br/><br/>I maintain an [Android blog here](https://gaurav-khanna.in/blogs)
+I hold a good experience (~9 years) in Android. Worked with the market leaders of their domain (Peak, Booking, Philips and Hike). <br/><br/>- **Android** Architecture Components (Livedata, ViewModel, Room)<br/>- Mostly **MVVM** (MVP in one project) <br/>- Proficient in **Kotlin** (Have written a few blogs) <br/>- Strong experience with multi-threading (**Coroutine**, Java concurrency, Android offerings like Service, WorkManager) <br/>- **Unit Testing** (Mockito, Junit)<br/>- Good hold on **Git**<br/>- **Dependency Injection** (Dagger 2)<br/>- Working knowledge of **Gradle** and experience with Jenkins + Bitrise (**CI/CD**) <br/>- Experience with Deployment (Bundles, Play store), A/B Testing, Feature Flags<br/>- Experience with in-app purchase and subscription<br/><br/>I maintain an [Android blog here](https://gaurav-khanna.in/blogs)
 
 {: .box-bordered}
 *Product*<br/> - Firebase and Google Analytics<br/> - Clear Understanding of the terminologies  like Cost of Acquisition, LTV, Retention, A/B test, Cohort, Funnel, DAU, MAU etc.<br/> - Experience of **building and selling** a tech product<br/>
@@ -76,11 +76,6 @@ India's number 1 job portal. Responsibilities included setting up Android team a
 **tcs ignite (Android Trainer & Engineer)** July 2010 - Aug 2012
 <br/>
 I was a technical trainer in TCS ignite and we worked on side projects in Android to train new employees and to facilitate R&D.
-
-### Volunteering
-
-{: .box-bordered}
-**'Kuch acha Krte hai' -> 'Lets do some good'** 2014 - 2016<br/>Every new year we used to collect donation from facebook friends to distribute gifts among poor kids. I started that group. [Facebook Link](https://www.facebook.com/Kuch-Acha-Krte-hai-650069005162621)
 
 
 
