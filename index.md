@@ -32,7 +32,15 @@ use-site-title: true
 {: .box-bordered}
 This is my personal website. I write about Software Development, Startups, Life, and Random thoughts. Feel free to contact for any query, any help, work proposal.
 
-### Featured Articles
+### Featured
+
+<ul class="grid-one">
+{% include material_card.html title="GoodApp, 20+ wellness and productivity apps in one."
+   url="/blogs/goodapp/" description="Stay happy, healthy and productive."
+  imgcss="md-card_image_goodapp_cards"
+%}
+</ul>
+
 
 {% include post_card.html 	
 subtitle="🔥 A complete guide on Java-to-Kotlin" 
